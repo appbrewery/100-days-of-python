@@ -2,4 +2,4 @@
 
 ## Section 1:
 
-*[Download the Course Syllabus](www.example.com)
+* [Download the Course Syllabus](www.example.com)
