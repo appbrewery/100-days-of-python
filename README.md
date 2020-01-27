@@ -11,5 +11,5 @@
 * [Thonny.org - A Python IDE for Beginners](https://thonny.org/)
 * [Day 1 - Python Variables Start](https://repl.it/@appbrewery/day-1-variables-start)
 * [Day 1 - Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
-* [Band Name Generator Start)](https://repl.it/@appbrewery/band-name-generator-start)
-* [Band Name Generator End)](https://repl.it/@appbrewery/band-name-generator-end)
+* [Band Name Generator Start](https://repl.it/@appbrewery/band-name-generator-start)
+* [Band Name Generator End](https://repl.it/@appbrewery/band-name-generator-end)
