@@ -10,4 +10,5 @@
 * [Day 1 Solution 1 - Print Function](https://repl.it/@appbrewery/day-1-1-solution)
 * [Day 1 Exercise 2 - Debugging](https://repl.it/student/submissions/10521135)
 * [Day 1 Solution 2 - Debugging](https://repl.it/@appbrewery/day-1-2-solution)
+* [Thonny.org - A Python IDE for Beginners](https://thonny.org/)
 * [Band Name Generator (Completed)](https://repl.it/@appbrewery/band-name-generator-end)
