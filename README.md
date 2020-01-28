@@ -1,6 +1,6 @@
 # 100 Days of Code
 
-## Section 1:
+## Day 1:
 
 * [Download the Course Syllabus](www.example.com)
 * [Sign up to Repl.it](https://repl.it/signup)
@@ -13,3 +13,11 @@
 * [Day 1 - Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
 * [Band Name Generator Start](https://repl.it/@appbrewery/band-name-generator-start)
 * [Band Name Generator End](https://repl.it/@appbrewery/band-name-generator-end)
+
+## Day 2:
+
+* [Day 2 - Project Goal](https://tip-calculator-end.appbrewery.repl.run/)
+* [Day 2 - Data Types Start](https://repl.it/@appbrewery/day-2-start)
+
+
+
