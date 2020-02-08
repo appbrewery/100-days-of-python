@@ -23,7 +23,7 @@
 * [Tim Urban's Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
 * [Tip Calculator Start](https://repl.it/@appbrewery/tip-calculator-start)
 * [Furthe reading on Floating Point numbers](https://docs.python.org/2/tutorial/floatingpoint.html)
-* [Tip Caclulator End](https://repl.it/@appbrewery/tip-calculator-end)
+* [Tip Calculator End](https://repl.it/@appbrewery/tip-calculator-end)
 
 ## Day 3:
 
