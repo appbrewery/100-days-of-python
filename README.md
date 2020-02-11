@@ -47,3 +47,10 @@
 ## Day 4
 
 
+https://en.wikipedia.org/wiki/Mersenne_Twister
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+http://www.russellcottrell.com/mousePointerRNG.htm
+https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html
+https://github.com/python/cpython/blob/master/Lib/random.py
+https://docs.python.org/3.8/library/random.html
+https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
