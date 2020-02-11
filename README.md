@@ -52,3 +52,4 @@
 * [AskPython's Documentation on Random](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 * [Mouse Pointer Random Generator](http://www.russellcottrell.com/mousePointerRNG.htm)
 * [Iowa Lottery Fraud Mystery](https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html)
+* [Python List Documentation](https://docs.python.org/3/tutorial/datastructures.html)
