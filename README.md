@@ -46,11 +46,9 @@
 
 ## Day 4
 
-
-https://en.wikipedia.org/wiki/Mersenne_Twister
-https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
-http://www.russellcottrell.com/mousePointerRNG.htm
-https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html
-https://github.com/python/cpython/blob/master/Lib/random.py
-https://docs.python.org/3.8/library/random.html
-https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+* [The Mersenne Twister] (https://en.wikipedia.org/wiki/Mersenne_Twister)
+* [Random vs Pseudorandom Numbers](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
+* [Day 4 Staring Code](https://repl.it/@appbrewery/day-4-start)
+* [AskPython's Documentation on Random](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
+* [Mouse Pointer Random Generator](http://www.russellcottrell.com/mousePointerRNG.htm)
+* [Iowa Lottery Fraud Mystery](https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html)
