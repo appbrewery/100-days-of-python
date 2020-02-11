@@ -46,7 +46,7 @@
 
 ## Day 4
 
-* [The Mersenne Twister] (https://en.wikipedia.org/wiki/Mersenne_Twister)
+* [The Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Random vs Pseudorandom Numbers](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
 * [Day 4 Staring Code](https://repl.it/@appbrewery/day-4-start)
 * [AskPython's Documentation on Random](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
