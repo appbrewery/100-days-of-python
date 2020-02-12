@@ -54,3 +54,6 @@
 * [Iowa Lottery Fraud Mystery](https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html)
 * [Python List Documentation](https://docs.python.org/3/tutorial/datastructures.html)
 * [Things that lists can do in Python](https://docs.python.org/3/tutorial/datastructures.html)
+* [Using Split to convert a String to a List](https://www.askpython.com/python/string/python-convert-string-to-list)
+* [Documentation on random.choice()](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
+* [Day 4 List of States and Veg](https://repl.it/@appbrewery/day-4-list-practice)
