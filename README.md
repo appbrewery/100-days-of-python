@@ -57,3 +57,5 @@
 * [Using Split to convert a String to a List](https://www.askpython.com/python/string/python-convert-string-to-list)
 * [Documentation on random.choice()](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 * [Day 4 List of States and Veg](https://repl.it/@appbrewery/day-4-list-practice)
+* [Dirty Dozen List of Foods](https://www.delish.com/food-news/a26872638/dirty-dozen-foods-list-2019/)
+* [The World Rock Paper Scissors Association](https://www.wrpsa.com/)
