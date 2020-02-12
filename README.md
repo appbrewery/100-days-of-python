@@ -60,6 +60,7 @@
 * [Dirty Dozen List of Foods](https://www.delish.com/food-news/a26872638/dirty-dozen-foods-list-2019/)
 * [The World Rock Paper Scissors Association](https://www.wrpsa.com/)
 * [Rock Paper Scissors Starter Code](https://repl.it/@appbrewery/rock-paper-scissors-start)
+* [Rock Paper Scissors Completed Code](https://repl.it/@appbrewery/rock-paper-scissors-end)
 
 ## Day 5
 
