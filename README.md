@@ -8,7 +8,7 @@
 * [Printing to the Console Start](https://repl.it/@appbrewery/day-1-printing-start)
 * [Sign Up for Interactive Code Exercises on Our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Printing to the Console End](https://repl.it/@appbrewery/day-1-printing-end)
-* [Thonny.org](https://thonny.org/) - A Python IDE for Beginners
+* [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
 * [Python Variables Start](https://repl.it/@appbrewery/day-1-variables-start)
 * [Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
 * [Band Name Generator Start](https://repl.it/@appbrewery/band-name-generator-start)
