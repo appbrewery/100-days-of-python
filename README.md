@@ -72,3 +72,9 @@
 * [Day 5 Ending Code](https://repl.it/@appbrewery/day-5-end)
 * [Password Generator Start](https://repl.it/@appbrewery/password-generator-start)
 * [Password Generator Completed Code](https://repl.it/@appbrewery/password-generator-end) 
+
+## Day 6 - Karel
+
+* [Built-in Python Functions](https://docs.python.org/3/library/functions.html)
+* [Day 6 - Starting Code](https://repl.it/@appbrewery/day-6-start)
+* [Reeborgs World](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
