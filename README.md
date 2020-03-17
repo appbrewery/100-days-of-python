@@ -78,4 +78,4 @@
 * [Built-in Python Functions](https://docs.python.org/3/library/functions.html)
 * [Day 6 - Starting Code](https://repl.it/@appbrewery/day-6-start)
 * [Reeborgs World Start](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
-* [Reeborgs World Hurdles Challenge](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%Fhurdle1.json)
+* [Reeborgs World Hurdles Challenge](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
