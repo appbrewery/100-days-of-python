@@ -2,7 +2,7 @@
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
-* [Download the Course Syllabus](www.example.com)
+* [TODO: Download the Course Syllabus](www.example.com)
 * [Sign up to Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
 * [Printing to the Console Start](https://repl.it/@appbrewery/day-1-printing-start)
@@ -80,3 +80,10 @@
 * [Reeborgs World Start](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
 * [Reeborgs World Hurdles Challenge](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 * [PEP 8 - The Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
+## Day 7 - Hangman
+
+* [Day 7 - Project Goal](https://Day-7-Hangman-Final.appbrewery.repl.run)
+
+
+
