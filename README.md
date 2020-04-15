@@ -104,6 +104,7 @@
 * [Challenge 4 Completed Code](https://repl.it/@appbrewery/Day-7-Hangman-4-End)
 * [Challenge 5 Starting Code](https://repl.it/@appbrewery/Day-7-Hangman-5-Start)
 * [Challenge 5 Target Behaviour](https://Day-7-Hangman-5-End.appbrewery.repl.run)
+* [Hint - Importing Modules](https://www.askpython.com/python/python-import-statement)
 * [Challenge 5 Completed Code](https://repl.it/@appbrewery/Day-7-Hangman-5-End)
 
 
