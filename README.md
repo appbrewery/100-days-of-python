@@ -108,7 +108,7 @@
 * [Challenge 5 Completed Code](https://repl.it/@appbrewery/Day-7-Hangman-5-End)
 * [Final Code](https://repl.it/@appbrewery/Day-7-Hangman-Final)
 
-## Day 8 - Caesar's Cipher
+## Day 8 - Caesar Cipher
 
 * [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
 * [Starting Repl.it](https://repl.it/@appbrewery/day-8-start)
