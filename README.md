@@ -73,7 +73,7 @@
 * [Password Generator Start](https://repl.it/@appbrewery/password-generator-start)
 * [Password Generator Completed Code](https://repl.it/@appbrewery/password-generator-end) 
 
-## Day 6 - Karel
+## Day 6 - Python Functions & Karel
 
 * [Built-in Python Functions](https://docs.python.org/3/library/functions.html)
 * [Day 6 - Starting Code](https://repl.it/@appbrewery/day-6-start)
