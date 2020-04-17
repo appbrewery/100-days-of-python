@@ -114,6 +114,7 @@
 * [Starting Repl.it](https://repl.it/@appbrewery/day-8-start)
 * [Primer on Prime Numbers](https://en.wikipedia.org/wiki/Prime_number)
 * [Caesar Cipher 1 Start](https://repl.it/@appbrewery/caesar-cipher-1-start)
+* [Python List index() Method](https://www.w3schools.com/python/ref_list_index.asp)
 * [Caesar Cipher 1 End](https://repl.it/@appbrewery/caesar-cipher-1-end)
 * [Caesar Cipher 2 Start](https://repl.it/@appbrewery/caesar-cipher-2-start)
 * [Caesar Cipher 2 End](https://repl.it/@appbrewery/caesar-cipher-2-end)
