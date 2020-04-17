@@ -112,6 +112,7 @@
 
 * [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
 * [Starting Repl.it](https://repl.it/@appbrewery/day-8-start)
+* [Primer on Prime Numbers](https://en.wikipedia.org/wiki/Prime_number)
 
 
 
