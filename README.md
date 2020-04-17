@@ -113,6 +113,14 @@
 * [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
 * [Starting Repl.it](https://repl.it/@appbrewery/day-8-start)
 * [Primer on Prime Numbers](https://en.wikipedia.org/wiki/Prime_number)
+* [Caesar Cipher 1 Start](https://repl.it/@appbrewery/caesar-cipher-1-start)
+* [Caesar Cipher 1 End](https://repl.it/@appbrewery/caesar-cipher-1-end)
+* [Caesar Cipher 2 Start](https://repl.it/@appbrewery/caesar-cipher-2-start)
+* [Caesar Cipher 2 End](https://repl.it/@appbrewery/caesar-cipher-2-end)
+* [Caesar Cipher 3 Start](https://repl.it/@appbrewery/caesar-cipher-3-start)
+* [Caesar Cipher 3 End](https://repl.it/@appbrewery/caesar-cipher-3-end)
+* [Caesar Cipher 4 Start](https://repl.it/@appbrewery/caesar-cipher-4-start)
+* [Caesar Cipher 4 End](https://repl.it/@appbrewery/caesar-cipher-4-end)
 
 
 
