@@ -124,6 +124,15 @@
 * [Caesar Cipher 4 Start](https://repl.it/@appbrewery/caesar-cipher-4-start)
 * [Caesar Cipher 4 End](https://repl.it/@appbrewery/caesar-cipher-4-end)
 
-## Day 9 - 
+## Day 9 - Dictionaries, Nesting and the Silent Auction
+
+* [Day 9 - Project Goal](https://blind-auction-completed.appbrewery.repl.run)
+* [Day 9 Starting Code](https://repl.it/@appbrewery/day-9-start)
+* [Challenge 1 Solution](https://repl.it/@appbrewery/day-9-1-solution)
+* [Challenge 2 Solution](https://repl.it/@appbrewery/day-9-2-solution)
+* [Silent Auction Completed Code](https://repl.it/@appbrewery/blind-auction-completed)
+
+
+
 
 
