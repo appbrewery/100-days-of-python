@@ -130,7 +130,9 @@
 * [Day 9 Starting Code](https://repl.it/@appbrewery/day-9-start)
 * [Challenge 1 Solution](https://repl.it/@appbrewery/day-9-1-solution)
 * [Challenge 2 Solution](https://repl.it/@appbrewery/day-9-2-solution)
-* [Day 9 Ending Code]()
+* [Day 9 Ending Code](https://repl.it/@appbrewery/day-9-end)
+* [Silent Auction Starting Code](https://repl.it/@appbrewery/blind-auction-start)
+* [Hint - Flowchart of Program]()
 * [Silent Auction Completed Code](https://repl.it/@appbrewery/blind-auction-completed)
 
 
