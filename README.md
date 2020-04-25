@@ -136,6 +136,17 @@
 * [Python Tutor](http://www.pythontutor.com/)
 * [Secret Auction Completed Code](https://repl.it/@appbrewery/blind-auction-completed)
 
+## Day 10 - Function Return Values and Blackjack
+
+* [Day 10 - Project Goal](https://blackjack-final.appbrewery.repl.run)
+* [Day 10 Starting Code](https://repl.it/@appbrewery/day-10-start)
+* [How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
+* [Leap Year Challenge Solution](https://repl.it/@appbrewery/day-10-1-solution)
+* [Day 10 Ending Code](https://repl.it/@appbrewery/day-10-end)
+* [Try out an online Blackjack game](https://games.washingtonpost.com/games/blackjack/)
+* [Blackjack Starting Code](https://repl.it/@appbrewery/blackjack-start)
+* [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
+
 
 
 
