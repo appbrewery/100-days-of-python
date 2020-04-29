@@ -143,10 +143,11 @@
 * [How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
 * [Leap Year Challenge Solution](https://repl.it/@appbrewery/day-10-1-solution)
 * [Day 10 Ending Code](https://repl.it/@appbrewery/day-10-end)
-
-
+* [Calculator Starting Code](https://repl.it/@appbrewery/blackjack-start)
+* [Calculator Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
 ## Day 11 - Blackjack Capstone Project
+
 * [Day 11 - Project Goal](https://blackjack-final.appbrewery.repl.run)
 * [Try out an online Blackjack game](https://games.washingtonpost.com/games/blackjack/)
 * [Blackjack Starting Code](https://repl.it/@appbrewery/blackjack-start)
