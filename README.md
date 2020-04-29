@@ -138,13 +138,13 @@
 
 ## Day 10 - Function Return Values and the Calculator Project
 
-* [Day 10 - Project Goal](...)
+* [Day 10 - Project Goal](https://calculator-final.appbrewery.repl.run)
 * [Day 10 Starting Code](https://repl.it/@appbrewery/day-10-start)
 * [How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
 * [Leap Year Challenge Solution](https://repl.it/@appbrewery/day-10-1-solution)
 * [Day 10 Ending Code](https://repl.it/@appbrewery/day-10-end)
-* [Calculator Starting Code](https://repl.it/@appbrewery/blackjack-start)
-* [Calculator Completed Code](https://repl.it/@appbrewery/blackjack-final)
+* [Calculator Starting Code](https://repl.it/@appbrewery/calculator-start)
+* [Calculator Completed Code](https://repl.it/@appbrewery/calculator-final)
 
 ## Day 11 - Blackjack Capstone Project
 
