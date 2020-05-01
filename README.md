@@ -151,4 +151,6 @@
 * [Day 11 - Project Goal](https://blackjack-final.appbrewery.repl.run)
 * [Try out an online Blackjack game](https://games.washingtonpost.com/games/blackjack/)
 * [Blackjack Starting Code](https://repl.it/@appbrewery/blackjack-start)
+* [Python sum() Function](https://docs.python.org/3/library/functions.html#sum)
+* [Python list methods](https://developers.google.com/edu/python/lists#list-methods)
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
