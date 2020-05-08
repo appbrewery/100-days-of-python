@@ -154,3 +154,7 @@
 * [Python sum() Function](https://docs.python.org/3/library/functions.html#sum)
 * [Python list methods](https://developers.google.com/edu/python/lists#list-methods)
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
+
+
+## Day 15 - 
+* [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
