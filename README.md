@@ -155,6 +155,23 @@
 * [Python list methods](https://developers.google.com/edu/python/lists#list-methods)
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
+## Day 12 - Scope
+* [Day 12 - Project Goal]()
+* [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
+* [Day 12 Ending Code](https://repl.it/@appbrewery/day-12-end)
+
+## Day 13 - 
+* [Day 13 - Project Goal]()
+* [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
+* [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
+
+## Day 14 - 
+* [Day 14 - Project Goal]()
+* [Day 14 Starting Code](https://repl.it/@appbrewery/day-14-start)
+* [Day 14 Ending Code](https://repl.it/@appbrewery/day-14-end)
 
 ## Day 15 - 
+* [Day 15 - Project Goal]()
+* [Day 15 Starting Code]()
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
+* [Day 15 Ending Code]()
