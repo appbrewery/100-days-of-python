@@ -156,9 +156,11 @@
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
 ## Day 12 - Scope
-* [Day 12 - Project Goal]()
+* [Day 12 - Project Goal](https://guess-the-number-final.appbrewery.repl.run)
 * [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
 * [Day 12 Ending Code](https://repl.it/@appbrewery/day-12-end)
+* [Get your own ASCII Text from Patorjk](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+* [Guess the Number Completed Code](https://repl.it/@appbrewery/guess-the-number-final)
 
 ## Day 13 - 
 * [Day 13 - Project Goal]()
@@ -167,8 +169,8 @@
 
 ## Day 14 - 
 * [Day 14 - Project Goal]()
-* [Day 14 Starting Code](https://repl.it/@appbrewery/day-14-start)
-* [Day 14 Ending Code](https://repl.it/@appbrewery/day-14-end)
+* [Day 14 Starting Code]()
+* [Day 14 Ending Code]()
 
 ## Day 15 - 
 * [Day 15 - Project Goal]()
