@@ -182,7 +182,7 @@
 ## Day 16 -
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
-* [Python Package Index] (https://pypi.org/)
-* [PrettyTable Package] (https://pypi.org/project/PrettyTable/)
-* [Pretty Table Package Documentation] (https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
-* [Pokemon Pokedex] (https://pokemondb.net/pokedex/game/x-y)
+* [Python Package Index](https://pypi.org/)
+* [PrettyTable Package](https://pypi.org/project/PrettyTable/)
+* [Pretty Table Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
+* [Pokemon Pokedex](https://pokemondb.net/pokedex/game/x-y)
