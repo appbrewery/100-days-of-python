@@ -186,3 +186,7 @@
 * [PrettyTable Package](https://pypi.org/project/PrettyTable/)
 * [Pretty Table Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
 * [Pokemon Pokedex](https://pokemondb.net/pokedex/game/x-y)
+* [OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start)
+* [Coffee Machine Classes Documentation](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
+* [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
+* [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
