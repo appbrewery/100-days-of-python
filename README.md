@@ -155,14 +155,15 @@
 * [Python list methods](https://developers.google.com/edu/python/lists#list-methods)
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
-## Day 12 - Scope
+## Day 12 - Scope and Namespacing in Python
 * [Day 12 - Project Goal](https://guess-the-number-final.appbrewery.repl.run)
 * [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
 * [Day 12 Ending Code](https://repl.it/@appbrewery/day-12-end)
 * [Get your own ASCII Text from Patorjk](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [Guess the Number Completed Code](https://repl.it/@appbrewery/guess-the-number-final)
+* [Using Python Tutor to Step Through your Code](http://www.pythontutor.com/visualize.html#mode=edit)
 
-## Day 13 - 
+## Day 13 - Debugging
 * [Day 13 - Project Goal]()
 * [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
 * [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
@@ -177,7 +178,3 @@
 * [Day 15 Starting Code]()
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [Day 15 Ending Code]()
-
-## Day 16 -
-* [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
-* [Turtle Colors](https://cs111.wellesley.edu/labs/lab01/colors)
