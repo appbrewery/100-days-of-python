@@ -177,3 +177,7 @@
 * [Day 15 Starting Code]()
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [Day 15 Ending Code]()
+
+## Day 16 -
+* [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
+* [Turtle Colors](https://cs111.wellesley.edu/labs/lab01/colors)
