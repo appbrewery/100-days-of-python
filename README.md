@@ -169,10 +169,11 @@
 * [Debug your code online with Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 * [Search Stack Overflow for Errors](https://stackoverflow.com/questions/tagged/python)
 
-## Day 14 - Higher Lower game
-* [Day 14 - Project Goal]()
-* [Day 14 Starting Code]()
-* [Day 14 Ending Code]()
+## Day 14 - Higher Lower Game Project
+* [Day 14 - Project Goal](https://higher-lower-final.appbrewery.repl.run)
+* [Day 14 Starting Code](https://repl.it/@appbrewery/higher-lower-start)
+* [Try out the Online Higher Lower Game](http://www.higherlowergame.com/)
+* [Day 14 Ending Code](https://repl.it/@appbrewery/higher-lower-final)
 
 ## Day 15 - 
 * [Day 15 - Project Goal]()
