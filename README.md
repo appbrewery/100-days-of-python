@@ -163,12 +163,13 @@
 * [Guess the Number Completed Code](https://repl.it/@appbrewery/guess-the-number-final)
 * [Using Python Tutor to Step Through your Code](http://www.pythontutor.com/visualize.html#mode=edit)
 
-## Day 13 - Debugging
-* [Day 13 - Project Goal]()
+## Day 13 - Debugging: How to Find and Fix Errors in your Code
 * [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
 * [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
+* [Debug your code online with Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
+* [Search Stack Overflow for Errors](https://stackoverflow.com/questions/tagged/python)
 
-## Day 14 - 
+## Day 14 - Higher Lower game
 * [Day 14 - Project Goal]()
 * [Day 14 Starting Code]()
 * [Day 14 Ending Code]()
