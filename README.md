@@ -175,7 +175,9 @@
 * [Try out the Online Higher Lower Game](http://www.higherlowergame.com/)
 * [Day 14 Ending Code](https://repl.it/@appbrewery/higher-lower-final)
 
-## Day 15 - 
+## Day 15 - Local Development Environment Setup & the Coffee Machine Project
+* [Step 1: Install Python 3 on your Machine](https://www.python.org/downloads/)
+* [Step 2: Download & Install Pycharm](https://www.jetbrains.com/pycharm/download/)
 * [Day 15 - Project Goal]()
 * [Day 15 Starting Code]()
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
