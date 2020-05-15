@@ -178,6 +178,7 @@
 ## Day 15 - Local Development Environment Setup & the Coffee Machine Project
 * [Step 1: Install Python 3 on your Machine](https://www.python.org/downloads/)
 * [Step 2: Download & Install Pycharm](https://www.jetbrains.com/pycharm/download/)
+* [Python PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Day 15 - Project Goal]()
 * [Day 15 Starting Code]()
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
