@@ -182,6 +182,10 @@
 * [Day 15 - Project Goal](https://coffee-machine-final.appbrewery.repl.run)
 * [Day 15 Starting Code](https://repl.it/@appbrewery/coffee-machine-start)
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
+* [PyCharm Keyboard Shortcuts](https://www.jetbrains.com/help/pycharm/running-and-debugging-shortcuts.html?keymap=secondary_windows)
+* [Add a Coffee Emoji from Emojipedia.org](https://emojipedia.org/hot-beverage/)
+* [How to bring up the Emoji Keyboard on Windows 10](https://support.microsoft.com/en-gb/help/4534547/windows-10-keyboard-tips-and-tricks)
+* [How to bring up the Emoji Keyboard on Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac)
 * [Day 15 Ending Code](https://repl.it/@appbrewery/coffee-machine-final)
 
 ## Day 16 -
