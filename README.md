@@ -188,7 +188,7 @@
 * [How to bring up the Emoji Keyboard on Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac)
 * [Day 15 Ending Code](https://repl.it/@appbrewery/coffee-machine-final)
 
-## Day 16 -
+## Day 16 - Object Oriented Programming (OOP)
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
 * [Python Package Index](https://pypi.org/)
