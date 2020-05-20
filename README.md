@@ -199,3 +199,13 @@
 * [Coffee Machine Classes Documentation](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 * [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
+
+
+## Day 18 - Turtle Graphics and GUIs
+* [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
+* [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
+* [Random Walk Wikipaedia Page](https://en.wikipedia.org/wiki/Random_walk)
+* [RGB Tool from W3Schools](https://www.w3schools.com/colors/colors_rgb.asp)
+* [Day 18 Ending Code](https://repl.it/@appbrewery/day-18-end)
+* [Colorgram Package](https://pypi.org/project/colorgram.py/)
+* [Hirst Painting Project Final Code](https://repl.it/@appbrewery/hirstpainting-final)
