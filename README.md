@@ -195,6 +195,7 @@
 * [Python Package Index](https://pypi.org/)
 * [PrettyTable Package](https://pypi.org/project/PrettyTable/)
 * [PrettyTable Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
+* [Steve Jobs on Object Oriented Programming](https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/)
 * [OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start)
 * [Coffee Machine Classes Documentation](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 * [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
