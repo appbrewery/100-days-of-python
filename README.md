@@ -204,7 +204,9 @@
 ## Day 17 - Quiz Project
 * [Day 17 - Project Goal](https://quiz-game-final.appbrewery.repl.run)
 * [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
+* [Open Trivia Database](https://opentdb.com/)
 * [Quiz Project Final Code](https://repl.it/@appbrewery/quiz-game-final)
+
 
 ## Day 18 - Turtle Graphics and GUIs
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
