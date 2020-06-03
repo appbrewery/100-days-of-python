@@ -211,6 +211,7 @@
 ## Day 18 - Turtle Graphics and GUIs
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
+* [Trinket Turtle Colours](https://trinket.io/docs/colors)
 * [Random Walk Wikipedia Page](https://en.wikipedia.org/wiki/Random_walk)
 * [RGB Tool from W3Schools](https://www.w3schools.com/colors/colors_rgb.asp)
 * [Day 18 Ending Code](https://repl.it/@appbrewery/day-18-end)
