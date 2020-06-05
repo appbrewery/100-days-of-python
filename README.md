@@ -226,5 +226,6 @@
 * [Solution to Challenge 5](TODO)
 * [Day 18 Ending Code](https://repl.it/@appbrewery/day-18-end)
 * [Colorgram Package](https://pypi.org/project/colorgram.py/)
+* [Hirst Painting Colour Extraction Code](TODO)
 * [Hirst Painting Project Final Code](https://repl.it/@appbrewery/hirstpainting-final)
 
