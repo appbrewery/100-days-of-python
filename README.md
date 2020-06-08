@@ -201,7 +201,7 @@
 * [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
 
-## Day 17 - Quiz Project & the Benefits of OOP
+## Day 17 - The Quiz Project & the Benefits of OOP
 * [Day 17 - Project Goal](https://quiz-game-final.appbrewery.repl.run)
 * [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
 * [Open Trivia Database](https://opentdb.com/)
