@@ -238,11 +238,9 @@
 
 ## Day 20 - Building the Snake Game Part I
 * [The tracer() method](https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer)
-* [Completed Code for Snake Part 1](TODO)
+* [Completed Code for Snake Part 1](https://repl.it/@angelabauer/snake-game-part-1-final)
 
-## Day 21 - Building the Snake Game Part II
-* [Completed Code for Snake Part 2](TODO)
+## Day 21 - OOP Inheritance and Slicing + Building the Snake Game Part II
+* [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
-## Day 21 - OOP Inheritance and Slicing
-* [Snake Game Final Code](https://repl.it/@appbrewery/snakegamefinal)
 
