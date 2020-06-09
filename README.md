@@ -231,10 +231,10 @@
 
 ## Day 19 - Instances, State and Higher Order Functions
 * [The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)
-* [Etch-A-Sketch Challenge Starting Code](TODO)
-* [Solution to the Etch-A-Sketch Challenge](TODO)
-* [Starting code for the Turtle Race](TODO)
-* [Completed code for the Turtle Race](TODO)
+* [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start)
+* [Solution to the Etch-A-Sketch Challenge](https://repl.it/@appbrewery/etch-a-sketch-final)
+* [Starting code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-start)
+* [Completed code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-final)
 
 ## Day 20 - Snake
 * [The tracer() method](https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer)
