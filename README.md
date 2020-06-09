@@ -230,12 +230,14 @@
 * [Hirst Painting Project Final Code](https://repl.it/@appbrewery/hirstpainting-final)
 
 ## Day 19 - Instances, State and Higher Order Functions
-
 * [The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)
 * [Etch-A-Sketch Challenge Starting Code](TODO)
 * [Solution to the Etch-A-Sketch Challenge](TODO)
 * [Starting code for the Turtle Race](TODO)
 * [Completed code for the Turtle Race](TODO)
+
+## Day 20 - Snake
+* [The tracer() method](https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer)
 
 ## Day 21 - OOP Inheritance and Slicing
 * [Snake Game Final Code](https://repl.it/@appbrewery/snakegamefinal)
