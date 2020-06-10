@@ -236,11 +236,11 @@
 * [Starting code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-start)
 * [Completed code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-final)
 
-## Day 20 - Building the Snake Game Part 1: Animation & Coordinates
+## Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 * [The tracer() method](https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer)
 * [Completed Code for Snake Part 1](https://repl.it/@angelabauer/snake-game-part-1-final)
 
-## Day 21 - Building the Snake Game Part 2: Inheritance & List Slicing
+## Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 * [Inheritance Repl.it Example Code](https://repl.it/@appbrewery/Class-Inheritance)
 * [The shape() and shapesize() methods](https://docs.python.org/3/library/turtle.html#turtle.shape)
 * [The write() method](https://docs.python.org/3/library/turtle.html#turtle.write)
