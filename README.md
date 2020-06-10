@@ -241,6 +241,9 @@
 * [Completed Code for Snake Part 1](https://repl.it/@angelabauer/snake-game-part-1-final)
 
 ## Day 21 - OOP Inheritance and Slicing + Building the Snake Game Part II
+* [Inheritance Repl.it Example Code](https://repl.it/@appbrewery/Class-Inheritance)
+* [The shape() and shapesize() methods](https://docs.python.org/3/library/turtle.html#turtle.shape)
+* [The write() method](https://docs.python.org/3/library/turtle.html#turtle.write)
 * [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
 
