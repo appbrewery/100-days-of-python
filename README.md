@@ -244,6 +244,9 @@
 * [Inheritance Repl.it Example Code](https://repl.it/@appbrewery/Class-Inheritance)
 * [The shape() and shapesize() methods](https://docs.python.org/3/library/turtle.html#turtle.shape)
 * [The write() method](https://docs.python.org/3/library/turtle.html#turtle.write)
+* [Piano Keys List Slicing Repl.it](https://repl.it/@appbrewery/slicing)
 * [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
+## Day 22 - The Turtle Crossing Capstone Project
+* [Solution Code to the Capstone Project](TODO)
 
