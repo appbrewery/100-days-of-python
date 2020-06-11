@@ -248,5 +248,7 @@
 * [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
 ## Day 22 - The Turtle Crossing Capstone Project
-* [Solution Code to the Capstone Project](TODO)
+* [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start)
+* [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
+
 
