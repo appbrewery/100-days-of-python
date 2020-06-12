@@ -247,8 +247,10 @@
 * [Piano Keys List Slicing Repl.it](https://repl.it/@appbrewery/slicing)
 * [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
-## Day 22 - The Turtle Crossing Capstone Project
+## Day 22 - Build Pong, the famous arcade game
+* [Completed Code for the Pong Project](https://repl.it/@appbrewery/pong-game-final)
+
+## Day 23 - The Turtle Crossing Capstone Project
 * [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
-
 
