@@ -254,3 +254,9 @@
 * [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
 
+## Day 24 - Files, Directories and Paths
+* [Snake Project Code from Day 21](https://repl.it/@appbrewery/snake-game-final)
+* [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
+* [Day 24 Ending Code](https://repl.it/@appbrewery/day-24-end)
+* [Mail Merge Project Staring Files](https://repl.it/@appbrewery/mail-merge-project-start)
+* [Mail Merge Project Completed Code](https://repl.it/@appbrewery/mail-merge-project-end)
