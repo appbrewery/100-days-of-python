@@ -226,14 +226,14 @@
 * [Solution to Challenge 5](https://repl.it/@appbrewery/day-18-5-end)
 * [Day 18 Ending Code](https://repl.it/@appbrewery/day-18-end)
 * [Colorgram Package](https://pypi.org/project/colorgram.py/)
-* [Hirst Painting Colour Extraction Code](https://repl.it/@appbrewery/hirst-painting-start)
+* [Hirst Painting Colour Extraction Code](https://repl.it/@appbrewery/hirst-painting-start.zip)
 * [Hirst Painting Project Final Code](https://repl.it/@appbrewery/hirstpainting-final)
 
 ## Day 19 - Instances, State and Higher Order Functions
 * [The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)
-* [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start)
+* [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start.zip)
 * [Solution to the Etch-A-Sketch Challenge](https://repl.it/@appbrewery/etch-a-sketch-final)
-* [Starting code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-start)
+* [Starting code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-start.zip)
 * [Completed code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-final)
 
 ## Day 20 - Build the Snake Game Part 1: Animation & Coordinates
@@ -251,12 +251,19 @@
 * [Completed Code for the Pong Project](https://repl.it/@appbrewery/pong-game-final)
 
 ## Day 23 - The Turtle Crossing Capstone Project
-* [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start)
+* [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
 
 ## Day 24 - Files, Directories and Paths
-* [Snake Project Code from Day 21](https://repl.it/@appbrewery/snake-game-final)
+* [Snake Project Code from Day 21](https://repl.it/@appbrewery/snake-game-final.zip)
 * [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
 * [Day 24 Ending Code](https://repl.it/@appbrewery/day-24-end)
-* [Mail Merge Project Staring Files](https://repl.it/@appbrewery/mail-merge-project-start)
+* [Mail Merge Project Staring Files](https://repl.it/@appbrewery/mail-merge-project-start.zip)
 * [Mail Merge Project Completed Code](https://repl.it/@appbrewery/mail-merge-project-end)
+
+## Day 25 - Working with CSV Data and the Pandas Library
+* [Pandas Library](https://pandas.pydata.org)
+* [Central Park Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
+* [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
+* [U.S. States Game Complted Repl](https://repl.it/@appbrewery/us-states-game-end)
+
