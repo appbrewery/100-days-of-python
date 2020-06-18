@@ -256,6 +256,7 @@
 
 ## Day 24 - Files, Directories and Paths
 * [Snake Project Code from Day 21](https://repl.it/@appbrewery/snake-game-final.zip)
+* [The open() method](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 * [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
 * [Day 24 Ending Code](https://repl.it/@appbrewery/day-24-end)
 * [Mail Merge Project Staring Files](https://repl.it/@appbrewery/mail-merge-project-start.zip)
