@@ -265,6 +265,7 @@
 * [Weather Data Day 25 Starting Code](https://repl.it/@appbrewery/day-25-start#weather_data.csv)
 * [Pandas Library](https://pandas.pydata.org)
 * [Central Park Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
+* [Day 24 End Code](https://repl.it/@appbrewery/day-25-end)
 * [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
 * [U.S. States Game Complted Repl](https://repl.it/@appbrewery/us-states-game-end)
 
