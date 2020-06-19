@@ -268,6 +268,7 @@
 * [Mail Merge Project Completed Code](https://repl.it/@appbrewery/mail-merge-project-end)
 
 ## Day 25 - Working with CSV Data and the Pandas Library
+* [Sample Weather Data as .csv](https://docs.google.com/spreadsheets/d/1Rs1CKjiagTeXa53212JkjRSDu-tx77_YxEgGdkv5zRY/edit?usp=sharing)
 * [Weather Data Day 25 Starting Code](https://repl.it/@appbrewery/day-25-start#weather_data.csv)
 * [Pandas Library](https://pandas.pydata.org)
 * [Central Park Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
