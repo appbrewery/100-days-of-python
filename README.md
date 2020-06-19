@@ -197,6 +197,7 @@
 * [PrettyTable Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
 * [Steve Jobs on Object Oriented Programming](https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/)
 * [OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start)
+* [Download .zip for OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start.zip)
 * [Coffee Machine Classes Documentation](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 * [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
@@ -204,6 +205,7 @@
 ## Day 17 - The Quiz Project & the Benefits of OOP
 * [Day 17 - Project Goal](https://quiz-game-final.appbrewery.repl.run)
 * [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
+* [Download .zip for Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start.zip)
 * [Open Trivia Database](https://opentdb.com/)
 * [Quiz Project Final Code](https://repl.it/@appbrewery/quiz-game-final)
 
@@ -251,7 +253,7 @@
 * [Completed Code for the Pong Project](https://repl.it/@appbrewery/pong-game-final)
 
 ## Day 23 - The Turtle Crossing Capstone Project
-* [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
+* [Download .zip for Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
 
 ## Day 24 - Files, Directories and Paths
