@@ -260,6 +260,9 @@
 * [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
 * [Day 24 Ending Code](https://repl.it/@appbrewery/day-24-end)
 * [Mail Merge Project Staring Files](https://repl.it/@appbrewery/mail-merge-project-start.zip)
+* [Hint 1](https://www.w3schools.com/python/ref_file_readlines.asp)
+* [Hint 2](https://www.w3schools.com/python/ref_string_replace.asp)
+* [Hint 3](https://www.w3schools.com/python/ref_string_strip.asp)
 * [Mail Merge Project Completed Code](https://repl.it/@appbrewery/mail-merge-project-end)
 
 ## Day 25 - Working with CSV Data and the Pandas Library
