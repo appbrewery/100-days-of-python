@@ -274,6 +274,7 @@
 * [Pandas API Reference](https://pandas.pydata.org/docs/reference/index.html)
 * [Central Park Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Day 25 End Code](https://repl.it/@appbrewery/day-25-end)
+* [Sporkle Name the States Game](https://www.sporcle.com/games/g/states)
 * [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
 * [U.S. States Game Complted Repl](https://repl.it/@appbrewery/us-states-game-end)
 
