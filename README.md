@@ -3,7 +3,7 @@
 ## Day 1 - Working with Variables in Python to Manage Data
 
 * [TODO: Download the Course Syllabus](www.example.com)
-* [Sign up to Repl.it](https://repl.it/signup)
+* [Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
 * [Printing to the Console Start](https://repl.it/@appbrewery/day-1-printing-start)
 * [Sign Up for Interactive Code Exercises on Our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
@@ -276,5 +276,10 @@
 * [Day 25 End Code](https://repl.it/@appbrewery/day-25-end)
 * [Sporkle Name the States Game](https://www.sporcle.com/games/g/states)
 * [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
-* [U.S. States Game Complted Repl](https://repl.it/@appbrewery/us-states-game-end)
+* [U.S. States Game Completed Repl](https://repl.it/@appbrewery/us-states-game-end)
+
+## Day 26 - List Comprehension & the NATO Pilot's Alphabet
+* [Create an account on Repl.it](https://repl.it/signup)
+* [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
 
