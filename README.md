@@ -282,6 +282,9 @@
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
+* [Download the NATO Alphabet Starting Files](https://repl.it/@appbrewery/NATO-alphabet-start.zip)
+* [NATO Alphabet Starting Code & TODOs](https://repl.it/@appbrewery/NATO-alphabet-start)
+* [Completed Code NATO Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-end)
 
 ## Day 27 - Tkinter and Creating GUI Programs
 * [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
