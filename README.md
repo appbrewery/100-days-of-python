@@ -283,3 +283,5 @@
 * [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
 
+## Day 27 - Tkinter and Creating GUI Programs
+* [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
