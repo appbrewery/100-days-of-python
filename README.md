@@ -286,5 +286,5 @@
 * [NATO Alphabet Starting Code & TODOs](https://repl.it/@appbrewery/NATO-alphabet-start)
 * [Completed Code NATO Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-end)
 
-## Day 27 - Tkinter and Creating GUI Programs
+## Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 * [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
