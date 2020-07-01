@@ -289,3 +289,9 @@
 ## Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 * [The Packer](https://docs.python.org/3/library/tkinter.html#the-packer)
 * [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
+
+## Day 28 - Building a Pomodoro GUI App with Tkinter
+* [Pomodoro Starting .zip file](https://repl.it/@appbrewery/pomodoro-start.zip)
+* [Python as a Strongly and Dyamically Typed Programming Language](https://stackoverflow.com/questions/11328920/is-python-strongly-typed)
+* [How to Make Tkinter window go to the front](https://stackoverflow.com/questions/1892339/how-to-make-a-tkinter-window-jump-to-the-front)
+* [Pomodoro Completed Project](https://repl.it/@appbrewery/pomodoro-end)
