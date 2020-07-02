@@ -290,7 +290,8 @@
 * [Python Docs: The Packer](https://docs.python.org/3/library/tkinter.html#the-packer)
 * [TCL Docs: pack()](http://tcl.tk/man/tcl8.6/TkCmd/pack.htm)
 * [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
-* [Day 25 End Code](https://repl.it/@appbrewery/day-25-end)
+* [Playground.py Completed Code](TODO)
+* [Day 27 End Code](https://repl.it/@appbrewery/day-27-end)
 
 ## Day 28 - Building a Pomodoro GUI App with Tkinter
 * [Pomodoro Starting .zip file](https://repl.it/@appbrewery/pomodoro-start.zip)
