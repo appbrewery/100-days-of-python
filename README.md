@@ -306,3 +306,7 @@
 * [Tkinter Grid columnspan demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
 * [Python writing to file documentation](https://www.w3schools.com/python/python_file_write.asp)
 * [Tkinter Canvas Widget Docs](https://effbot.org/tkinterbook/entry.htm)
+* [Day 5 Password Generator Project Code](https://repl.it/@appbrewery/password-generator-project#main.py)
+* [Python join() method documentation](https://www.w3schools.com/python/ref_string_join.asp)
+* [Pyperclip documentation on PyPi](https://pypi.org/project/pyperclip/)
+* [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
