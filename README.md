@@ -299,3 +299,10 @@
 * [Python as a Strongly and Dyamically Typed Programming Language](https://stackoverflow.com/questions/11328920/is-python-strongly-typed)
 * [How to Make Tkinter window go to the front](https://stackoverflow.com/questions/1892339/how-to-make-a-tkinter-window-jump-to-the-front)
 * [Pomodoro Completed Project](https://repl.it/@appbrewery/pomodoro-end)
+
+## Day 29 - Building a Password Manager GUI App with Tkinter
+* [Password Manager Starting .zip file](https://repl.it/@appbrewery/password-manager-start.zip)
+* [Tkinter Canvas Widget Docs - create_image() method](https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_image-method)
+* [Tkinter Grid columnspan demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
+* [Python writing to file documentation](https://www.w3schools.com/python/python_file_write.asp)
+* [Tkinter Canvas Widget Docs](https://effbot.org/tkinterbook/entry.htm)
