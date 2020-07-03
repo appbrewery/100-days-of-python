@@ -289,9 +289,9 @@
 ## Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 * [Python Docs: The Packer](https://docs.python.org/3/library/tkinter.html#the-packer)
 * [TCL tk Docs: pack()](http://tcl.tk/man/tcl8.6/TkCmd/pack.htm)
-* [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
 * [Playground.py Completed Code](https://repl.it/@appbrewery/day-27-playground)
 * [TCL tk Docs: Entry()](http://tcl.tk/man/tcl8.6/TkCmd/entry.htm)
+* [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
 * [Day 27 End Code](https://repl.it/@appbrewery/day-27-end)
 
 ## Day 28 - Building a Pomodoro GUI App with Tkinter
