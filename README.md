@@ -297,6 +297,7 @@
 ## Day 28 - Building a Pomodoro GUI App with Tkinter
 * [Pomodoro Starting .zip file](https://repl.it/@appbrewery/pomodoro-start.zip)
 * [Use Color Hunt to Choose a Nice Colour](https://colorhunt.co/)
+* [TCL tk Docs: after()](http://tcl.tk/man/tcl8.6/TclCmd/after.htm)
 * [Python as a Strongly and Dyamically Typed Programming Language](https://stackoverflow.com/questions/11328920/is-python-strongly-typed)
 * [How to Make Tkinter window go to the front](https://stackoverflow.com/questions/1892339/how-to-make-a-tkinter-window-jump-to-the-front)
 * [Pomodoro Completed Project](https://repl.it/@appbrewery/pomodoro-end)
