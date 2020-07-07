@@ -312,3 +312,14 @@
 * [Python join() method documentation](https://www.w3schools.com/python/ref_string_join.asp)
 * [Pyperclip documentation on PyPi](https://pypi.org/project/pyperclip/)
 * [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
+
+## Day 30 - Errors, Exceptions and JSON Data, Improving the Password Manager
+
+* [Password Manager End of Day 29, Start of Day 30 .zip file](https://repl.it/@appbrewery/password-manager-end.zip)
+* [Create an account on Repl.it](https://repl.it/signup)
+* [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [NATO Phonetic Alphabet Completed Code for Code Exercise](https://repl.it/@appbrewery/NATO-alphabet-end.zip)
+* [Improved NATO Phonetic Alphabet Project End](https://repl.it/@appbrewery/NATO-alphabet-improved-end)
+* [Python JSON Module Documentation](https://docs.python.org/3/library/json.html)
+* [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
+
