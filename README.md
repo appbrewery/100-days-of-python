@@ -294,7 +294,7 @@
 * [Tkinter Widget Example Code Palette](https://repl.it/@appbrewery/tkinter-widget-demo)
 * [Day 27 End Code](https://repl.it/@appbrewery/day-27-end)
 
-## Day 28 - Building a Pomodoro GUI App with Tkinter
+## Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 * [Pomodoro Starting .zip file](https://repl.it/@appbrewery/pomodoro-start.zip)
 * [Use Color Hunt to Choose a Nice Colour](https://colorhunt.co/)
 * [TCL tk Docs: after()](http://tcl.tk/man/tcl8.6/TclCmd/after.htm)
@@ -313,7 +313,7 @@
 * [Pyperclip documentation on PyPi](https://pypi.org/project/pyperclip/)
 * [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
 
-## Day 30 - Errors, Exceptions and JSON Data, Improving the Password Manager
+## Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 
 * [Password Manager End of Day 29, Start of Day 30 .zip file](https://repl.it/@appbrewery/password-manager-end.zip)
 * [Create an account on Repl.it](https://repl.it/signup)
