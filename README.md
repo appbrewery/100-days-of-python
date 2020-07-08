@@ -305,9 +305,9 @@
 ## Day 29 - Building a Password Manager GUI App with Tkinter
 * [Password Manager Starting .zip file](https://repl.it/@appbrewery/password-manager-start.zip)
 * [Tkinter Canvas Widget Docs - create_image() method](https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_image-method)
-* [Tkinter Grid columnspan demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
-* [Python writing to file documentation](https://www.w3schools.com/python/python_file_write.asp)
-* [Tkinter Canvas Widget Docs](https://effbot.org/tkinterbook/entry.htm)
+* [Tkinter Grid columnspan Demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
+* [w3schools Python Writing to File Documentation](https://www.w3schools.com/python/python_file_write.asp)
+* [Tkinter Entry Widget Docs](https://effbot.org/tkinterbook/entry.htm)
 * [Day 5 Password Generator Project Code](https://repl.it/@appbrewery/password-generator-project#main.py)
 * [Python join() method documentation](https://www.w3schools.com/python/ref_string_join.asp)
 * [Pyperclip documentation on PyPi](https://pypi.org/project/pyperclip/)
