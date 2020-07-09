@@ -309,12 +309,11 @@
 * [w3schools Python Writing to File Documentation](https://www.w3schools.com/python/python_file_write.asp)
 * [Tkinter Entry Widget Docs](https://effbot.org/tkinterbook/entry.htm)
 * [Day 5 Password Generator Project Code](https://repl.it/@appbrewery/password-generator-project#main.py)
-* [Python join() method documentation](https://www.w3schools.com/python/ref_string_join.asp)
+* [w3schools Python join() method Documentation](https://www.w3schools.com/python/ref_string_join.asp)
 * [Pyperclip documentation on PyPi](https://pypi.org/project/pyperclip/)
 * [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
 
 ## Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
-
 * [Password Manager End of Day 29, Start of Day 30 .zip file](https://repl.it/@appbrewery/password-manager-end.zip)
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
@@ -324,7 +323,6 @@
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
 
 ## Day 31 - Capstone Project - Flash Card App
-
 * [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
 * [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
 * [Open Subtitles](https://www.opensubtitles.org/en/search/subs)
