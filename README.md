@@ -22,7 +22,7 @@
 * [BMI Explanation](https://en.wikipedia.org/wiki/Body_mass_index)
 * [Tim Urban's Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
 * [Tip Calculator Start](https://repl.it/@appbrewery/tip-calculator-start)
-* [Furthe reading on Floating Point numbers](https://docs.python.org/2/tutorial/floatingpoint.html)
+* [Further reading on Floating Point numbers](https://docs.python.org/2/tutorial/floatingpoint.html)
 * [Tip Calculator Completed Code](https://repl.it/@appbrewery/tip-calculator-end)
 
 ## Day 3 - Control Flow and Logical Operators
@@ -328,6 +328,8 @@
 * [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
 * [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
 * [Open Subtitles](https://www.opensubtitles.org/en/search/subs)
+* [Google Sheets](https://www.google.co.uk/sheets/about/)
+* [View Only - French Words Google Sheet](https://docs.google.com/spreadsheets/d/1G_6WAjt8R4s-llmyIbihd0qBn4JpeKwl2danJ3BZqBM/edit?usp=sharing)
 * [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
 * [Flash Card Program Starting .zip Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
