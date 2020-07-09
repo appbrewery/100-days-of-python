@@ -323,3 +323,11 @@
 * [Python JSON Module Documentation](https://docs.python.org/3/library/json.html)
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
 
+## Day 31 - Capstone Project - Flash Card App
+
+* [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+* [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
+* [Open Subtitles](https://www.opensubtitles.org/en/search/subs)
+* [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
+* [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
+* [Flash Card Program Starting .zip Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
