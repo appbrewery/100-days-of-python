@@ -331,3 +331,4 @@
 * [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
 * [Flash Card Program Starting .zip Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
+* [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
