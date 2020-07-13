@@ -171,7 +171,7 @@
 
 ## Day 14 - Higher Lower Game Project
 * [Day 14 - Project Goal](https://higher-lower-final.appbrewery.repl.run)
-* [Day 14 Starting Code](https://repl.it/@appbrewery/higher-lower-start)
+* Fork Your Copy of the [Day 14 Starting Code](https://repl.it/@appbrewery/higher-lower-start)
 * [Try out the Online Higher Lower Game](http://www.higherlowergame.com/)
 * [Day 14 Ending Code](https://repl.it/@appbrewery/higher-lower-final)
 
