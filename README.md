@@ -5,7 +5,7 @@
 * [TODO: Download the Course Syllabus](www.example.com)
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
-* Fork Your Own Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
+* Fork Your Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
 * [Sign Up for Interactive Code Exercises on Our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Printing to the Console End](https://repl.it/@appbrewery/day-1-printing-end)
 * [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
@@ -17,7 +17,7 @@
 ## Day 2 - Understanding Data Types and How to Manipulate Strings
 
 * [Day 2 - Project Goal](https://tip-calculator-end.appbrewery.repl.run/)
-* [Data Types Start](https://repl.it/@appbrewery/day-2-start)
+* Fork Your Copy of the [Day 2 Starting Code](https://repl.it/@appbrewery/day-2-start)
 * [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [BMI Explanation](https://en.wikipedia.org/wiki/Body_mass_index)
 * [Tim Urban's Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
@@ -29,7 +29,7 @@
 
 * [Day 3 - Project Goal](https://treasure-island-end.appbrewery.repl.run)
 * [Rollercoaster Ticketing Flow Chart Version 1 - if else statements](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%201#R1VfbcpswEP0apk%2FJAAJfHmM7aR%2FSjlt3ps2jYm1ArUCukC%2Fk67sywqDgJM7Eub0w6Ggl7Z49uwKPjLPNZ0UX6VfJQHihzzYemXhhOIhCfBqgrICIkApIFGcVFDTAjN%2BCBX2LLjmDwjHUUgrNFy44l3kOc%2B1gVCm5ds1upHBPXdAEOsBsTkUX%2FcWZTm1YYb%2FBvwBP0vrkoDesZjJaG9tIipQyuW5B5NwjYyWlrt6yzRiE4a7mpVp3cc%2FszjEFuT5kwTQf3Pz8rmYwjVc%2FVmxzyf%2FJExtGocs6YGAYvx1KpVOZyJyK8wYdKbnMGZhdfRw1NpdSLhAMEPwDWpc2mXSpJUKpzoSdRYdV%2BdusP%2B2RsAauEDjxT%2F1%2BXCOTjT2jGpXt0RQUz0CDsmAVh3H%2BXnosVMilmsMDnNQyoyoB%2FYBdvEsiih8keqNKXKdAUM1Xrh%2FUyjDZ2dmlZ0rRsmWwkDzXRWvnqQHQwBYUIbagbD0FcdzOOr5UO9ajlmsNtFXGE1QyfGOVREHUVon%2FQQQSHUMgHQUEkSuAoe%2FuULllFzXKeKrQer3X15nlYkXF0rJje6tpbT2aoXBGid4m0w%2Bw52ceuehIU6Uyu15ilKN1yjXMFnSbzDVeT67A7GGgNGwe1kQ3h%2FWCoO%2ByVF9b6%2BauCHoWS1v3xN2ktdPe4vjpFJK3KNUj1lZ4YG3dk5eDa%2BtZJIcdnc7QYd2V4o7Y4HE53nAhxlJItV1LWAwDZtpeoZX8C62ZQXhNsDqPI2DiCjjco99wj36jl9Jv1KF2TPNPpgPg5yE8j%2BEj8EV8l6499T7ovyJd8T663gtZYb%2F%2Fvtiqz2%2FR9U12aMKAtcsFFTzJ8X2OgZsPipGhheNPwpmdyDhjVSuFgt%2FS6%2B1WppnaWxb3jUdePDF7YfcsqkZ6JJoHd%2B4gMuywTPaUcPhiLHev8SsoPjzN%2BC%2F7KM%2FRcXjGYfNfWH1cNT%2FX5Pw%2F)
-* [if else Start](https://repl.it/@appbrewery/day-3-start)
+* Fork Your Copy of the [Day 3 Starting Code](https://repl.it/@appbrewery/day-3-start)
 * [More info on the % Modulus](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
 * [Rollercoaster Ticketing Flow Chart Version 2 - Nested if-else statements](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%202#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1J7_rw1flGeF0hmc_zrMzPX7t6xkbcsiX%26export%3Ddownload)
 * [Rollercoaster Ticketing Flow Chart Version 3 - if-elif-else statements](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%202#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XaUDMIKOxCUzJbsuZevgHZmgKr7rICbI%26export%3Ddownload)
@@ -49,7 +49,7 @@
 * [Day 4 - Project Goal](https://rock-paper-scissors-end.appbrewery.repl.run)
 * [The Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Random vs Pseudorandom Numbers](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
-* [Day 4 Starting Code](https://repl.it/@appbrewery/day-4-start)
+* Fork Your Copy of the [Day 4 Starting Code](https://repl.it/@appbrewery/day-4-start)
 * [AskPython's Documentation on Random](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 * [Mouse Pointer Random Generator](http://www.russellcottrell.com/mousePointerRNG.htm)
 * [Iowa Lottery Fraud Mystery](https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html)
@@ -67,7 +67,7 @@
 
 * [Day 5 - Project Goal](https://password-generator-end.appbrewery.repl.run)
 * [Have I been pwned?](https://haveibeenpwned.com/)
-* [Day 5 Starting Code](https://repl.it/@appbrewery/day-5-start)
+* Fork Your Copy of the [Day 5 Starting Code](https://repl.it/@appbrewery/day-5-start)
 * [For loop Lesson End](https://repl.it/@appbrewery/day-5-for-loops-end)
 * [Day 5 Ending Code](https://repl.it/@appbrewery/day-5-end)
 * [Password Generator Start](https://repl.it/@appbrewery/password-generator-start)
@@ -76,7 +76,7 @@
 ## Day 6 - Python Functions & Karel
 
 * [Built-in Python Functions](https://docs.python.org/3/library/functions.html)
-* [Day 6 Starting Code](https://repl.it/@appbrewery/day-6-start)
+* Fork Your Copy of the [Day 6 Starting Code](https://repl.it/@appbrewery/day-6-start)
 * [Reeborgs World Start](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
 * [Reeborgs World Hurdles Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 * [PEP 8 - The Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
@@ -111,7 +111,7 @@
 ## Day 8 - Function Parameters & Caesar Cipher
 
 * [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
-* [Starting Repl.it](https://repl.it/@appbrewery/day-8-start)
+* Fork Your Copy of the [Day 8 Starting Code](https://repl.it/@appbrewery/day-8-start)
 * [Primer on Prime Numbers](https://en.wikipedia.org/wiki/Prime_number)
 * [Day 8 - Ending Code](https://repl.it/@appbrewery/day-8-end)
 * [Caesar Cipher 1 Start](https://repl.it/@appbrewery/caesar-cipher-1-start)
@@ -127,7 +127,7 @@
 ## Day 9 - Dictionaries, Nesting and the Secret Auction
 
 * [Day 9 - Project Goal](https://blind-auction-completed.appbrewery.repl.run)
-* [Day 9 Starting Code](https://repl.it/@appbrewery/day-9-start)
+* Fork Your Copy of the [Day 9 Starting Code](https://repl.it/@appbrewery/day-9-start)
 * [Challenge 1 Solution](https://repl.it/@appbrewery/day-9-1-solution)
 * [Challenge 2 Solution](https://repl.it/@appbrewery/day-9-2-solution)
 * [Day 9 Ending Code](https://repl.it/@appbrewery/day-9-end)
@@ -139,7 +139,7 @@
 ## Day 10 - Function Return Values and the Calculator Project
 
 * [Day 10 - Project Goal](https://calculator-final.appbrewery.repl.run)
-* [Day 10 Starting Code](https://repl.it/@appbrewery/day-10-start)
+* Fork Your Copy of the [Day 10 Starting Code](https://repl.it/@appbrewery/day-10-start)
 * [How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
 * [Leap Year Challenge Solution](https://repl.it/@appbrewery/day-10-1-solution)
 * [Day 10 Ending Code](https://repl.it/@appbrewery/day-10-end)
@@ -150,21 +150,21 @@
 
 * [Day 11 - Project Goal](https://blackjack-final.appbrewery.repl.run)
 * [Try out an online Blackjack game](https://games.washingtonpost.com/games/blackjack/)
-* [Blackjack Starting Code](https://repl.it/@appbrewery/blackjack-start)
+* Fork Your Copy of the [Blackjack Starting Code](https://repl.it/@appbrewery/blackjack-start)
 * [Python sum() Function](https://docs.python.org/3/library/functions.html#sum)
 * [Python list methods](https://developers.google.com/edu/python/lists#list-methods)
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
 ## Day 12 - Scope and Namespacing in Python
 * [Day 12 - Project Goal](https://guess-the-number-final.appbrewery.repl.run)
-* [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
+* Fork Your Copy of the [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
 * [Day 12 Ending Code](https://repl.it/@appbrewery/day-12-end)
 * [Get your own ASCII Text from Patorjk](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [Guess the Number Completed Code](https://repl.it/@appbrewery/guess-the-number-final)
 * [Using Python Tutor to Step Through your Code](http://www.pythontutor.com/visualize.html#mode=edit)
 
 ## Day 13 - Debugging: How to Find and Fix Errors in your Code
-* [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
+* Fork Your Copy of the [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
 * [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
 * [Debug your code online with Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 * [Search Stack Overflow for Errors](https://stackoverflow.com/questions/tagged/python)
@@ -180,7 +180,7 @@
 * [Step 2: Download & Install Pycharm](https://www.jetbrains.com/pycharm/download/)
 * [Python PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Day 15 - Project Goal](https://coffee-machine-final.appbrewery.repl.run)
-* [Day 15 Starting Code](https://repl.it/@appbrewery/coffee-machine-start)
+* Download or Fork the [Day 15 Starting Code](https://repl.it/@appbrewery/coffee-machine-start)
 * [Coffee Machine Program Specifications PDF Download](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [PyCharm Keyboard Shortcuts](https://www.jetbrains.com/help/pycharm/running-and-debugging-shortcuts.html?keymap=secondary_windows)
 * [Add a Coffee Emoji from Emojipedia.org](https://emojipedia.org/hot-beverage/)
@@ -197,14 +197,14 @@
 * [PrettyTable Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
 * [Steve Jobs on Object Oriented Programming](https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/)
 * [OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start)
-* [Download .zip for OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start.zip)
+* Download the .zip for the [OOP Coffee Machine Project Starting Code](https://repl.it/@appbrewery/oop-coffee-machine-start.zip)
 * [Coffee Machine Classes Documentation](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 * [Coffee Machine Project Requirements](https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo)
 * [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
 
 ## Day 17 - The Quiz Project & the Benefits of OOP
 * [Day 17 - Project Goal](https://quiz-game-final.appbrewery.repl.run)
-* [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
+* Download or Fork the [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
 * [Download .zip for Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start.zip)
 * [Open Trivia Database](https://opentdb.com/)
 * [Quiz Project Final Code](https://repl.it/@appbrewery/quiz-game-final)
@@ -214,17 +214,17 @@
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
 * [Trinket Turtle Colours](https://trinket.io/docs/colors)
-* [Challenge 1 - Draw a Square - Starting Code](https://repl.it/@appbrewery/day-18-1-start)
+* Challenge 1 - [Draw a Square - Starting Code](https://repl.it/@appbrewery/day-18-1-start)
 * [Solution to Challenge 1](https://repl.it/@appbrewery/day-18-1-end)
-* [Challenge 2 - Draw a Dashed Line - Starting Code](https://repl.it/@appbrewery/day-18-2-start)
+* Challenge 2 - [Draw a Dashed Line - Starting Code](https://repl.it/@appbrewery/day-18-2-start)
 * [Solution to Challenge 2](https://repl.it/@appbrewery/day-18-2-end)
-* [Challenge 3 - Drawing Different Shapes - Starting Code](https://repl.it/@appbrewery/day-18-3-start)
+* Challenge 3 - [Drawing Different Shapes - Starting Code](https://repl.it/@appbrewery/day-18-3-start)
 * [Solution to Challenge 3](https://repl.it/@appbrewery/day-18-3-end)
-* [Challenge 4 - Generate a Random Walk - Starting Code](https://repl.it/@appbrewery/day-18-4-start)
+* Challenge 4 - [Generate a Random Walk - Starting Code](https://repl.it/@appbrewery/day-18-4-start)
 * [Random Walk Wikipedia Page](https://en.wikipedia.org/wiki/Random_walk)
 * [Solution to Challenge 4](https://repl.it/@appbrewery/day-18-4-end)
 * [RGB Tool from W3Schools](https://www.w3schools.com/colors/colors_rgb.asp)
-* [Challenge 5 - Create a Spirograph - Starting Code](https://repl.it/@appbrewery/day-18-5-start)
+* Challenge 5 - [Create a Spirograph - Starting Code](https://repl.it/@appbrewery/day-18-5-start)
 * [Solution to Challenge 5](https://repl.it/@appbrewery/day-18-5-end)
 * [Day 18 Ending Code](https://repl.it/@appbrewery/day-18-end)
 * [Colorgram Package](https://pypi.org/project/colorgram.py/)
@@ -233,7 +233,7 @@
 
 ## Day 19 - Instances, State and Higher Order Functions
 * [The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)
-* [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start.zip)
+* Download the .zip for the [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start.zip)
 * [Solution to the Etch-A-Sketch Challenge](https://repl.it/@appbrewery/etch-a-sketch-final)
 * [Starting code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-start.zip)
 * [Completed code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-final)
@@ -253,7 +253,7 @@
 * [Completed Code for the Pong Project](https://repl.it/@appbrewery/pong-game-final)
 
 ## Day 23 - The Turtle Crossing Capstone Project
-* [Download .zip for Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
+* Download the .zip for the [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
 
 ## Day 24 - Files, Directories and Paths
@@ -261,7 +261,7 @@
 * [The open() method](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 * [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
 * [Day 24 Ending Code](https://repl.it/@appbrewery/day-24-end)
-* [Download Mail Merge Project Starting Files](https://repl.it/@appbrewery/mail-merge-project-start.zip)
+* Download the [Mail Merge Project Starting Files](https://repl.it/@appbrewery/mail-merge-project-start.zip)
 * [Hint 1](https://www.w3schools.com/python/ref_file_readlines.asp)
 * [Hint 2](https://www.w3schools.com/python/ref_string_replace.asp)
 * [Hint 3](https://www.w3schools.com/python/ref_string_strip.asp)
@@ -269,20 +269,20 @@
 
 ## Day 25 - Working with CSV Data and the Pandas Library
 * [Sample Weather Data as .csv](https://docs.google.com/spreadsheets/d/1Rs1CKjiagTeXa53212JkjRSDu-tx77_YxEgGdkv5zRY/edit?usp=sharing)
-* [Weather Data Day 25 Starting Code](https://repl.it/@appbrewery/day-25-start#weather_data.csv)
+* Downlod the [Weather Data Day 25 Starting Code](https://repl.it/@appbrewery/day-25-start#weather_data.csv)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Pandas API Reference](https://pandas.pydata.org/docs/reference/index.html)
 * [Central Park Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Day 25 End Code](https://repl.it/@appbrewery/day-25-end)
 * [Sporkle Name the States Game](https://www.sporcle.com/games/g/states)
-* [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
+* Download .zip for the [U.S. States Game Starting Files](https://repl.it/@appbrewery/us-states-game-end.zip)
 * [U.S. States Game Completed Repl](https://repl.it/@appbrewery/us-states-game-end)
 
 ## Day 26 - List Comprehension & the NATO Pilot's Alphabet
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
-* [Download the NATO Alphabet Starting Files](https://repl.it/@appbrewery/NATO-alphabet-start.zip)
+* Download .zip for the [NATO Alphabet Starting Files](https://repl.it/@appbrewery/NATO-alphabet-start.zip)
 * [NATO Alphabet Starting Code & TODOs](https://repl.it/@appbrewery/NATO-alphabet-start)
 * [Completed Code NATO Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-end)
 
@@ -295,7 +295,7 @@
 * [Day 27 End Code](https://repl.it/@appbrewery/day-27-end)
 
 ## Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
-* [Pomodoro Starting .zip file](https://repl.it/@appbrewery/pomodoro-start.zip)
+* Download the .zip for the [Pomodoro Starting Files](https://repl.it/@appbrewery/pomodoro-start.zip)
 * [Use Color Hunt to Choose a Nice Colour](https://colorhunt.co/)
 * [TCL tk Docs: after()](http://tcl.tk/man/tcl8.6/TclCmd/after.htm)
 * [Python as a Strongly and Dyamically Typed Programming Language](https://stackoverflow.com/questions/11328920/is-python-strongly-typed)
@@ -303,7 +303,7 @@
 * [Pomodoro Completed Project](https://repl.it/@appbrewery/pomodoro-end)
 
 ## Day 29 - Building a Password Manager GUI App with Tkinter
-* [Password Manager Starting .zip file](https://repl.it/@appbrewery/password-manager-start.zip)
+* Download the .zip for the [Password Manager Starting Files](https://repl.it/@appbrewery/password-manager-start.zip)
 * [Tkinter Canvas Widget Docs - create_image() method](https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_image-method)
 * [Tkinter Grid columnspan Demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
 * [w3schools Python Writing to File Documentation](https://www.w3schools.com/python/python_file_write.asp)
@@ -331,5 +331,5 @@
 * [View Only - French Words Google Sheet](https://docs.google.com/spreadsheets/d/1G_6WAjt8R4s-llmyIbihd0qBn4JpeKwl2danJ3BZqBM/edit?usp=sharing)
 * [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
-* [Flash Card Program Starting .zip Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
+* Download the .zip for the [Flash Card Program Starting Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
 * [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
