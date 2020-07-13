@@ -279,8 +279,8 @@
 * [U.S. States Game Completed Repl](https://repl.it/@appbrewery/us-states-game-end)
 
 ## Day 26 - List Comprehension & the NATO Pilot's Alphabet
-* [Create an account on Repl.it](https://repl.it/signup)
-* [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* Don't have a repl.it account yet? [Register here](https://repl.it/signup)
+* Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
 * Download .zip for the [NATO Alphabet Starting Files](https://repl.it/@appbrewery/NATO-alphabet-start.zip)
 * [NATO Alphabet Starting Code & TODOs](https://repl.it/@appbrewery/NATO-alphabet-start)
@@ -314,11 +314,11 @@
 * [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
 
 ## Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
-* [Password Manager End of Day 29, Start of Day 30 .zip file](https://repl.it/@appbrewery/password-manager-end.zip)
-* [Create an account on Repl.it](https://repl.it/signup)
-* [Sign Up for Interactive Code Exercises through our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
-* [NATO Phonetic Alphabet Completed Code for Code Exercise](https://repl.it/@appbrewery/NATO-alphabet-end.zip)
-* [Improved NATO Phonetic Alphabet Project End](https://repl.it/@appbrewery/NATO-alphabet-improved-end)
+* Download the .zip file for the [Password Manager (End of Day 29)](https://repl.it/@appbrewery/password-manager-end.zip)
+* Don't have a repl.it account yet? [Register here](https://repl.it/signup)
+* Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* Download the .zip file for the [NATO Phonetic Alphabet for the Code Exercise](https://repl.it/@appbrewery/NATO-alphabet-end.zip)
+* [Solution to the Improved NATO Phonetic Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-improved-end)
 * [Python JSON Module Documentation](https://docs.python.org/3/library/json.html)
 * [Day 30 End Code](https://repl.it/@appbrewery/day-30-end#main.py)
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
