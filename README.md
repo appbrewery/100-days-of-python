@@ -5,7 +5,7 @@
 * [TODO: Download the Course Syllabus](www.example.com)
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
-* [Printing to the Console Start](https://repl.it/@appbrewery/day-1-printing-start)
+* Fork Your Own Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
 * [Sign Up for Interactive Code Exercises on Our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Printing to the Console End](https://repl.it/@appbrewery/day-1-printing-end)
 * [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
@@ -320,6 +320,7 @@
 * [NATO Phonetic Alphabet Completed Code for Code Exercise](https://repl.it/@appbrewery/NATO-alphabet-end.zip)
 * [Improved NATO Phonetic Alphabet Project End](https://repl.it/@appbrewery/NATO-alphabet-improved-end)
 * [Python JSON Module Documentation](https://docs.python.org/3/library/json.html)
+* [Day 30 End Code](https://repl.it/@appbrewery/day-30-end#main.py)
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
 
 ## Day 31 - Capstone Project - Flash Card App
