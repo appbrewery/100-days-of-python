@@ -324,6 +324,7 @@
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
 
 ## Day 31 - Capstone Project - Flash Card App
+* Download the .zip for the [Flash Card Program Starting Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
 * [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
 * [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
 * [Open Subtitles](https://www.opensubtitles.org/en/search/subs)
@@ -331,7 +332,6 @@
 * [View Only - French Words Google Sheet](https://docs.google.com/spreadsheets/d/1G_6WAjt8R4s-llmyIbihd0qBn4JpeKwl2danJ3BZqBM/edit?usp=sharing)
 * [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
-* Download the .zip for the [Flash Card Program Starting Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
 * [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
 
 ## Day 32 - Sending Email (smtplib) and Managing Date Time (datetime)
