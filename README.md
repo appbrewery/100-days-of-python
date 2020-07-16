@@ -334,7 +334,7 @@
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
 * [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
 
-## Day 32 - Sending Email (smtplib) and Managing Date Time (datetime)
+## Day 32 - Sending Email (smtplib) and Managing Date Time (datetime) - Automated Birthday Wisher Project
 * Download the .zip for the [SMTP Starting Files](https://repl.it/@appbrewery/day-32-start.zip)
 * [Python smtplib Documentation](https://docs.python.org/3/library/smtplib.html)
 * [Python datetime Documentation](https://docs.python.org/3/library/datetime.html)
@@ -344,3 +344,23 @@
 * [Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-hard-start.zip)
 * [Extra Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-extrahard-start.zip)
 * [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end_
+
+## Day 33 - API Endpoints and API Parameters - ISS Overhead Notifier
+* [Application Programming Interface Wikipedia Entry](https://en.wikipedia.org/wiki/Application_programming_interface)
+* [International Space Station Wikipedia Entry](https://en.wikipedia.org/wiki/International_Space_Station)
+* [International Space Station Current Location API Documentation](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+* [Python Requests Module Documentation](https://requests.readthedocs.io/en/master/user/quickstart/)
+* [JSON Viewer Awesome Chrome Plugin](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en)
+* [Latitude and Longitude to Address Tool](https://www.latlong.net/Show-Latitude-Longitude.html)
+* [HTTP Status Codes](https://httpstatuses.com/)
+* [Kanye Quotes API](https://kanye.rest/)
+* Download the .zip for the [Kanye Quotes Starting Files](https://repl.it/@appbrewery/kanye-quotes-start.zip)
+* [Kanye Quotes Completed Project Code](https://repl.it/@appbrewery/kanye-quotes-end)
+* [Sunrise and Sunset Times API](https://sunrise-sunset.org/api)
+* [Find Your Current Latitude and Longitude Tool](https://www.latlong.net)
+* [Python split() method Documentation](https://www.w3schools.com/python/ref_string_split.asp)
+* [ISS Overhead Notifier Final Code](https://repl.it/@appbrewery/issoverhead-end)
+
+
+
+
