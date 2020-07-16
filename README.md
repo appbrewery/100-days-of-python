@@ -335,8 +335,8 @@
 * [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
 
 ## Day 32 - Sending Email (smtplib) and Managing Date Time (datetime)
+* Download the .zip for the [SMTP Starting Files](https://repl.it/@appbrewery/day-32-start.zip)
 * [Python smtplib Documentation](https://docs.python.org/3/library/smtplib.html)
-* [Day 32 Starting .zip Files](https://repl.it/@appbrewery/day-32-start.zip)
 * [Python datetime Documentation](https://docs.python.org/3/library/datetime.html)
 * [101 Monday Motivational Quotes](https://www.positivityblog.com/monday-motivation-quotes/)
 * [Day 32 Final Code](https://repl.it/@appbrewery/day-32-end)
