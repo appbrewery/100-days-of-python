@@ -334,7 +334,7 @@
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
 * [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
 
-## Day 32 - Sending Email (smtplib) and Managing Date Time (datetime) - Automated Birthday Wisher Project
+## Day 32 - Send Email (smtplib) & Manage Dates (datetime): Automated Birthday Wisher Project
 * Download the .zip for the [SMTP Starting Files](https://repl.it/@appbrewery/day-32-start.zip)
 * [Python smtplib Documentation](https://docs.python.org/3/library/smtplib.html)
 * [Python datetime Documentation](https://docs.python.org/3/library/datetime.html)
@@ -343,7 +343,7 @@
 * [Normal Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-normal-start.zip)
 * [Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-hard-start.zip)
 * [Extra Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-extrahard-start.zip)
-* [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end_
+* [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end)
 
 ## Day 33 - API Endpoints and API Parameters - ISS Overhead Notifier
 * [Application Programming Interface Wikipedia Entry](https://en.wikipedia.org/wiki/Application_programming_interface)
