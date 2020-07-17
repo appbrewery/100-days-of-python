@@ -364,5 +364,12 @@
 * [ISS Overhead Notifier Final Code](https://repl.it/@appbrewery/issoverhead-end)
 
 
-
-
+## Day 34 - API Practice - Creating a GUI Quiz App
+* [The Open Trivia Database](https://opentdb.com/)
+* Download the .zip for the [Quiz App Starting Files](https://repl.it/@appbrewery/quizzler-app-start.zip)
+* [How to Get TKinter Canvas Text to Wrap](https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8)
+* [Documentation on HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+* [FreeFormatter - HTML Unescape Tool](https://www.freeformatter.com/html-escape.html)
+* [StackOverflow Answer on Unescaping HTML Entities in Python](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
+* [How to Disable Tkinter Buttons](https://www.google.com/search?q=how+to+disable+tkinter+buttons&oq=how+to+disable+tkinter+buttons&aqs=chrome..69i57j0l2.3868j0j4&sourceid=chrome&ie=UTF-8)
+* [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
