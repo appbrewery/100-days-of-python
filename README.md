@@ -349,8 +349,8 @@
 
 ## Day 33 - API Endpoints and API Parameters - ISS Overhead Notifier
 * [Application Programming Interface Wikipedia Entry](https://en.wikipedia.org/wiki/Application_programming_interface)
-* [International Space Station Wikipedia Entry](https://en.wikipedia.org/wiki/International_Space_Station)
-* [International Space Station Current Location API Documentation](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+* [International Space Station (ISS) Wikipedia Entry](https://en.wikipedia.org/wiki/International_Space_Station)
+* [ISS Current Location API Documentation](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 * [Python Requests Module Documentation](https://requests.readthedocs.io/en/master/user/quickstart/)
 * [JSON Viewer Awesome Chrome Plugin](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en)
 * [Latitude and Longitude to Address Tool](https://www.latlong.net/Show-Latitude-Longitude.html)
