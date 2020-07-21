@@ -373,3 +373,22 @@
 * [StackOverflow Answer on Unescaping HTML Entities in Python](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
 * [How to Disable Tkinter Buttons](https://www.google.com/search?q=how+to+disable+tkinter+buttons&oq=how+to+disable+tkinter+buttons&aqs=chrome..69i57j0l2.3868j0j4&sourceid=chrome&ie=UTF-8)
 * [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
+
+
+## Day 35 - API Keys & Authentication, Sending SMS and Environment Variables
+* [Create a free count on OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
+* [OpenWeatherMap Current Weather API Documentation](https://openweathermap.org/current)
+* [Link to Your OpenWeatherMap API Key req. login](https://home.openweathermap.org/api_keys)
+* [Find Your Latitude/longitude](https://www.latlong.net/)
+* [Online JSON Viewer](http://jsonviewer.stack.hu/)
+* [Find a Place that's raining using Ventusky](https://www.ventusky.com/)
+* [OpenWeatherMap OneCall Api Documentation](https://openweathermap.org/api/one-call-api)
+* [Python Slice Function](https://www.w3schools.com/python/ref_func_slice.asp)
+* [Python Slice Operator with Square Brackets](https://stackoverflow.com/questions/509211/understanding-slice-notation)
+* [Signup for Twilio](https://www.twilio.com/try-twilio)
+* [Twilio SMS Quickstart Documentation for Python](https://www.twilio.com/docs/sms/quickstart/python)
+* [PythonAnywhere](https://www.pythonanywhere.com/)
+* [how to Get Twilio to Work on PythonAnywhere Free Accounts](https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/)
+* [Environment Variables Wikipedia Entry](https://en.wikipedia.org/wiki/Environment_variable)
+* [Other APIs to Explore](https://apilist.fun/)
+* [Completed Code for Rain Alert Project](https://repl.it/@appbrewery/rain-alert-end)
