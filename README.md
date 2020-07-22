@@ -360,7 +360,7 @@
 * [Kanye Quotes Completed Project Code](https://repl.it/@appbrewery/kanye-quotes-end)
 * [Sunrise and Sunset Times API](https://sunrise-sunset.org/api)
 * [Find Your Current Latitude and Longitude Tool](https://www.latlong.net)
-* [Python split() method Documentation](https://www.w3schools.com/python/ref_string_split.asp)
+* [w3schools Python split() method Documentation](https://www.w3schools.com/python/ref_string_split.asp)
 * [ISS Overhead Notifier Final Code](https://repl.it/@appbrewery/issoverhead-end)
 
 
