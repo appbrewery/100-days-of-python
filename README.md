@@ -392,3 +392,13 @@
 * [Environment Variables Wikipedia Entry](https://en.wikipedia.org/wiki/Environment_variable)
 * [Other APIs to Explore](https://apilist.fun/)
 * [Completed Code for Rain Alert Project](https://repl.it/@appbrewery/rain-alert-end)
+
+## Day 36 - Stock Trading News Alert Project
+* [Normal Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-normal-start.zip)
+* [Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-hard-start.zip)
+* [Extra Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-extrahard-start.zip)
+* [TSLA STock Price](https://uk.tradingview.com/symbols/NASDAQ-TSLA/)
+* [Stock Price API](https://www.alphavantage.co/)
+* [News API](https://newsapi.org/)
+* [Twilio API](https://www.twilio.com/)
+* [Completed Code for Stock Trading Alert Project](https://repl.it/@appbrewery/stock-news-end)
