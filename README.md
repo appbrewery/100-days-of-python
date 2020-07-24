@@ -156,6 +156,7 @@
 * [Blackjack Completed Code](https://repl.it/@appbrewery/blackjack-final)
 
 ## Day 12 - Scope and Namespacing in Python
+
 * [Day 12 - Project Goal](https://guess-the-number-final.appbrewery.repl.run)
 * Fork Your Copy of the [Day 12 Starting Code](https://repl.it/@appbrewery/day-12-start)
 * [Day 12 Ending Code](https://repl.it/@appbrewery/day-12-end)
@@ -164,18 +165,21 @@
 * [Using Python Tutor to Step Through your Code](http://www.pythontutor.com/visualize.html#mode=edit)
 
 ## Day 13 - Debugging: How to Find and Fix Errors in your Code
+
 * Fork Your Copy of the [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
 * [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
 * [Debug your code online with Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 * [Search Stack Overflow for Errors](https://stackoverflow.com/questions/tagged/python)
 
 ## Day 14 - Higher Lower Game Project
+
 * [Day 14 - Project Goal](https://higher-lower-final.appbrewery.repl.run)
 * Fork Your Copy of the [Day 14 Starting Code](https://repl.it/@appbrewery/higher-lower-start)
 * [Try out the Online Higher Lower Game](http://www.higherlowergame.com/)
 * [Day 14 Ending Code](https://repl.it/@appbrewery/higher-lower-final)
 
 ## Day 15 - Local Development Environment Setup & the Coffee Machine Project
+
 * [Step 1: Install Python 3 on your Machine](https://www.python.org/downloads/)
 * [Step 2: Download & Install Pycharm](https://www.jetbrains.com/pycharm/download/)
 * [Python PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
@@ -189,6 +193,7 @@
 * [Day 15 Ending Code](https://repl.it/@appbrewery/coffee-machine-final)
 
 ## Day 16 - Object Oriented Programming (OOP)
+
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
 * [Pokemon Pokedex](https://pokemondb.net/pokedex/game/x-y)
@@ -203,6 +208,7 @@
 * [OOP Coffee Machine Project Final Code](https://repl.it/@appbrewery/oop-coffee-machine-final)
 
 ## Day 17 - The Quiz Project & the Benefits of OOP
+
 * [Day 17 - Project Goal](https://quiz-game-final.appbrewery.repl.run)
 * Download or Fork the [Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start)
 * [Download .zip for Quiz Game Starting Code](https://repl.it/@appbrewery/quiz-game-start.zip)
@@ -211,6 +217,7 @@
 
 
 ## Day 18 - Turtle Graphics and GUIs
+
 * [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 * [Turtle Colours](https://cs111.wellesley.edu/labs/lab01/colors)
 * [Trinket Turtle Colours](https://trinket.io/docs/colors)
@@ -232,6 +239,7 @@
 * [Hirst Painting Project Final Code](https://repl.it/@appbrewery/hirstpainting-final)
 
 ## Day 19 - Instances, State and Higher Order Functions
+
 * [The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)
 * Download the .zip for the [Etch-A-Sketch Challenge Starting Code](https://repl.it/@appbrewery/etch-a-sketch-start.zip)
 * [Solution to the Etch-A-Sketch Challenge](https://repl.it/@appbrewery/etch-a-sketch-final)
@@ -239,10 +247,12 @@
 * [Completed code for the Turtle Race](https://repl.it/@appbrewery/turtle-race-final)
 
 ## Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+
 * [The tracer() method](https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer)
 * [Completed Code for Snake Part 1](https://repl.it/@angelabauer/snake-game-part-1-final)
 
 ## Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+
 * [Inheritance Repl.it Example Code](https://repl.it/@appbrewery/Class-Inheritance)
 * [The shape() and shapesize() methods](https://docs.python.org/3/library/turtle.html#turtle.shape)
 * [The write() method](https://docs.python.org/3/library/turtle.html#turtle.write)
@@ -250,13 +260,16 @@
 * [Completed Code for Snake Part 2](https://repl.it/@appbrewery/snake-game-final)
 
 ## Day 22 - Build Pong: The Famous Arcade Game
+
 * [Completed Code for the Pong Project](https://repl.it/@appbrewery/pong-game-final)
 
 ## Day 23 - The Turtle Crossing Capstone Project
+
 * Download the .zip for the [Starting Code for the Turtle Crossing Game](https://repl.it/@appbrewery/turtle-crossing-start.zip)
 * [Solution Code to the Capstone Project](https://repl.it/@appbrewery/turtle-crossing-final)
 
 ## Day 24 - Files, Directories and Paths
+
 * [Snake Project Code from Day 21](https://repl.it/@appbrewery/snake-game-final.zip)
 * [The open() method](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 * [Snake After Adding High Score Management](https://repl.it/@appbrewery/snake-game-high-score-final)
@@ -268,6 +281,7 @@
 * [Mail Merge Project Completed Code](https://repl.it/@appbrewery/mail-merge-project-end)
 
 ## Day 25 - Working with CSV Data and the Pandas Library
+
 * [Sample Weather Data as .csv](https://docs.google.com/spreadsheets/d/1Rs1CKjiagTeXa53212JkjRSDu-tx77_YxEgGdkv5zRY/edit?usp=sharing)
 * Downlod the [Weather Data Day 25 Starting Code](https://repl.it/@appbrewery/day-25-start#weather_data.csv)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -279,6 +293,7 @@
 * [U.S. States Game Completed Repl](https://repl.it/@appbrewery/us-states-game-end)
 
 ## Day 26 - List Comprehension & the NATO Pilot's Alphabet
+
 * Don't have a repl.it account yet? [Register here](https://repl.it/signup)
 * Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
@@ -287,6 +302,7 @@
 * [Completed Code NATO Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-end)
 
 ## Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
+
 * [Python Docs: The Packer](https://docs.python.org/3/library/tkinter.html#the-packer)
 * [TCL tk Docs: pack()](http://tcl.tk/man/tcl8.6/TkCmd/pack.htm)
 * [Playground.py Completed Code](https://repl.it/@appbrewery/day-27-playground)
@@ -295,6 +311,7 @@
 * [Day 27 End Code](https://repl.it/@appbrewery/day-27-end)
 
 ## Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+
 * Download the .zip for the [Pomodoro Starting Files](https://repl.it/@appbrewery/pomodoro-start.zip)
 * [Use Color Hunt to Choose a Nice Colour](https://colorhunt.co/)
 * [TCL tk Docs: after()](http://tcl.tk/man/tcl8.6/TclCmd/after.htm)
@@ -303,6 +320,7 @@
 * [Pomodoro Completed Project](https://repl.it/@appbrewery/pomodoro-end)
 
 ## Day 29 - Building a Password Manager GUI App with Tkinter
+
 * Download the .zip for the [Password Manager Starting Files](https://repl.it/@appbrewery/password-manager-start.zip)
 * [Tkinter Canvas Widget Docs - create_image() method](https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_image-method)
 * [Tkinter Grid columnspan Demo Repl](https://repl.it/@appbrewery/grid-columnspan-demo#main.py)
@@ -314,6 +332,7 @@
 * [Password Manager End Code](https://repl.it/@appbrewery/password-manager-end)
 
 ## Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
+
 * Download the .zip file for the [Password Manager (End of Day 29)](https://repl.it/@appbrewery/password-manager-end.zip)
 * Don't have a repl.it account yet? [Register here](https://repl.it/signup)
 * Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
@@ -324,6 +343,7 @@
 * [Improved Password Manager Project End Code](https://repl.it/@appbrewery/password-manager-improved-end)
 
 ## Day 31 - Capstone Project - Flash Card App
+
 * Download the .zip for the [Flash Card Program Starting Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
 * [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
 * [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
@@ -346,8 +366,8 @@
 * [Host your Code in the Cloud with pythonanywhere](https://www.pythonanywhere.com/)
 * [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end)
 
-
 ## Day 33 - API Endpoints and API Parameters - ISS Overhead Notifier
+
 * [Application Programming Interface Wikipedia Entry](https://en.wikipedia.org/wiki/Application_programming_interface)
 * [International Space Station (ISS) Wikipedia Entry](https://en.wikipedia.org/wiki/International_Space_Station)
 * [ISS Current Location API Documentation](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
@@ -364,8 +384,8 @@
 * Download the .zip for the [ISS Notifier Starting Files](https://repl.it/issoverhead-start.zip)
 * [ISS Overhead Notifier Final Code](https://repl.it/@appbrewery/issoverhead-end)
 
-
 ## Day 34 - API Practice - Creating a GUI Quiz App
+
 * [The Open Trivia Database](https://opentdb.com/)
 * Download the .zip for the [Quizzler App Starting Files](https://repl.it/@appbrewery/quizzler-app-start.zip)
 * [Documentation on HTML Entities](https://www.w3schools.com/html/html_entities.asp)
@@ -376,6 +396,7 @@
 * [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
 
 ## Day 35 - API Keys & Authentication, Sending SMS and Environment Variables
+
 * [Create a free count on OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
 * [OpenWeatherMap Current Weather API Documentation](https://openweathermap.org/current)
 * [Link to Your OpenWeatherMap API Key req. login](https://home.openweathermap.org/api_keys)
@@ -394,6 +415,7 @@
 * [Completed Code for Rain Alert Project](https://repl.it/@appbrewery/rain-alert-end)
 
 ## Day 36 - Stock Trading News Alert Project
+
 * [Normal Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-normal-start.zip)
 * [Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-hard-start.zip)
 * [Extra Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-extrahard-start.zip)
