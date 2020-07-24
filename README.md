@@ -393,6 +393,7 @@
 * [StackOverflow Answer on Unescaping HTML Entities in Python](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
 * [How to Get TKinter Canvas Text to Wrap](https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8)
 * [How to Disable Tkinter Buttons](https://www.google.com/search?q=how+to+disable+tkinter+buttons&oq=how+to+disable+tkinter+buttons&aqs=chrome..69i57j0l2.3868j0j4&sourceid=chrome&ie=UTF-8)
+* [Python Type Hints Demo Code](https://repl.it/@appbrewery/day-34-end)
 * [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
 
 ## Day 35 - Keys, Authentication & Environment Variables: Send SMS 
