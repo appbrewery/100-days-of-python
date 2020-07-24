@@ -395,7 +395,7 @@
 * [How to Disable Tkinter Buttons](https://www.google.com/search?q=how+to+disable+tkinter+buttons&oq=how+to+disable+tkinter+buttons&aqs=chrome..69i57j0l2.3868j0j4&sourceid=chrome&ie=UTF-8)
 * [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
 
-## Day 35 - API Keys & Authentication, Sending SMS and Environment Variables
+## Day 35 - Keys, Authentication & Environment Variables: Send SMS 
 
 * [Create a free count on OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
 * [OpenWeatherMap Current Weather API Documentation](https://openweathermap.org/current)
