@@ -433,3 +433,10 @@
 * [Requests Module Documentation](https://requests.readthedocs.io/en/latest/api/)
 * [Python Date Formatting](https://www.w3schools.com/python/python_datetime.asp)
 * [Habit Tracking Completed Project](https://repl.it/@appbrewery/habit-tracking-end)
+
+
+## Day 38 - POSTing Workout Data to Google Sheets 
+* [Nutritionix API](https://www.nutritionix.com/business/api)
+* [Nutritionix API Documentation](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/edit)
+* [Sheety API](https://sheety.co/)
+* [Workout Tracking Completed Project](https://repl.it/@appbrewery/exercise-tracking-end)
