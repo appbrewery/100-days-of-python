@@ -400,11 +400,11 @@
 
 * [Create a free count on OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
 * [OpenWeatherMap Current Weather API Documentation](https://openweathermap.org/current)
+* [OpenWeatherMap OneCall Api Documentation](https://openweathermap.org/api/one-call-api)
 * [Link to Your OpenWeatherMap API Key req. login](https://home.openweathermap.org/api_keys)
 * [Find Your Latitude/longitude](https://www.latlong.net/)
 * [Online JSON Viewer](http://jsonviewer.stack.hu/)
 * [Find a Place that's raining using Ventusky](https://www.ventusky.com/)
-* [OpenWeatherMap OneCall Api Documentation](https://openweathermap.org/api/one-call-api)
 * [Python Slice Function](https://www.w3schools.com/python/ref_func_slice.asp)
 * [Python Slice Operator with Square Brackets](https://stackoverflow.com/questions/509211/understanding-slice-notation)
 * [Signup for Twilio](https://www.twilio.com/try-twilio)
