@@ -432,7 +432,7 @@
 * [Pixela](https://pixe.la/)
 * [Pixela API Documentation](https://docs.pixe.la/)
 * [Requests Module Documentation](https://requests.readthedocs.io/en/latest/api/)
-* [Python Date Formatting](https://www.w3schools.com/python/python_datetime.asp)
+* [w3schools Python Date Formatting with strftime](https://www.w3schools.com/python/python_datetime.asp)
 * [Habit Tracking Completed Project](https://repl.it/@appbrewery/habit-tracking-end)
 
 
