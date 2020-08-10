@@ -455,3 +455,12 @@
 
 * [Project Inspiration: Jack's Flight Club](https://jacksflightclub.com/)
 
+## Day 41 - 
+
+* [Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Experiment with HTML code on codepen.io]
+* [The Adventures of Sherlock Holmes on Gutenberg.org]
+* [MDN documentation on headings]
+* [W3Schools documentation on headings]
+* [Alternative reference devdocs.io]
+
