@@ -468,5 +468,7 @@
 
 * Download the .zip for the [Beautiful Soup Starting Files](https://repl.it/@appbrewery/bs4-start.zip)
 * [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Y Combinator Hacker News](https://news.ycombinator.com/)
+* [Demo code from lessons](https://repl.it/@appbrewery/bs4-end)
 * [Empire's Top 100 Movies of All Time](https://www.empireonline.com/movies/features/best-movies-2/)
 * [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end)
