@@ -464,3 +464,9 @@
 * [W3Schools documentation on headings]
 * [Alternative reference devdocs.io]
 
+## Day 45 - 
+
+* Download the .zip for the [Beautiful Soup Starting Files](https://repl.it/@appbrewery/bs4-start.zip)
+* [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Empire's Top 100 Movies of All Time](https://www.empireonline.com/movies/features/best-movies-2/)
+* [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end)
