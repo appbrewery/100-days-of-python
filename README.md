@@ -464,7 +464,7 @@
 * [W3Schools documentation on headings]
 * [Alternative reference devdocs.io]
 
-## Day 45 - 
+## Day 45 - Web Scraping with Beautiful Soup
 
 * Download the .zip for the [Beautiful Soup Starting Files](https://repl.it/@appbrewery/bs4-start.zip)
 * [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
