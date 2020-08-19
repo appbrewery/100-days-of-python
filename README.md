@@ -472,3 +472,7 @@
 * [Demo code from lessons](https://repl.it/@appbrewery/bs4-end)
 * [Empire's Top 100 Movies of All Time](https://www.empireonline.com/movies/features/best-movies-2/)
 * [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end)
+
+## Day 48 - Selenium
+
+* [The Cookie Clicker Game](https://orteil.dashnet.org/cookieclicker/)
