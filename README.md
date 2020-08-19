@@ -454,8 +454,9 @@
 ## Day 40 - Capstone Part 2: Flight Club!
 
 * [Project Inspiration: Jack's Flight Club](https://jacksflightclub.com/)
+* [See the course lessons for the individual links](TODO: Add Link to Course)
 
-## Day 41 - 
+## Day 41 - Introduction to HTML
 
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [Experiment with HTML code on codepen.io]
@@ -463,6 +464,12 @@
 * [MDN documentation on headings]
 * [W3Schools documentation on headings]
 * [Alternative reference devdocs.io]
+
+## Day 42 - Intermediate HTML
+
+## Day 43 - Introduction to CSS
+
+## Day 44 - Intermediate CSS
 
 ## Day 45 - Web Scraping with Beautiful Soup
 
@@ -473,9 +480,14 @@
 * [Empire's Top 100 Movies of All Time](https://www.empireonline.com/movies/features/best-movies-2/)
 * [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end)
 
+## Day 46 - Create a Spotify Playlist using the Musical Time Machine
+
+* [See the course lessons for the individual links](TODO: Add Link to Course)
+
 ## Day 48 - Selenium
 
 * [The Cookie Clicker Game](https://orteil.dashnet.org/cookieclicker/)
 * [Download and Install the Chrome Browser](https://www.google.com/intl/en_uk/chrome/)
 * [Download and Install Selenium ChromeDriver](https://chromedriver.chromium.org/downloads)
+* [Selenium Documentation](https://selenium-python.readthedocs.io/)
 
