@@ -484,6 +484,10 @@
 
 * [See the course lessons for the individual links](TODO: Add Link to Course)
 
+## Day 47 - Create an Automated Amazon Price Tracker
+
+* [See the course lessons for the individual links](TODO: Add Link to Course)
+
 ## Day 48 - Selenium
 
 * [The Cookie Clicker Game](https://orteil.dashnet.org/cookieclicker/)
