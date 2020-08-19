@@ -476,3 +476,6 @@
 ## Day 48 - Selenium
 
 * [The Cookie Clicker Game](https://orteil.dashnet.org/cookieclicker/)
+* [Download and Install the Chrome Browser](https://www.google.com/intl/en_uk/chrome/)
+* [Download and Install Selenium ChromeDriver](https://chromedriver.chromium.org/downloads)
+
