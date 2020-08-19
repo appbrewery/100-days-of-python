@@ -494,4 +494,5 @@
 * [Download and Install the Chrome Browser](https://www.google.com/intl/en_uk/chrome/)
 * [Download and Install Selenium ChromeDriver](https://chromedriver.chromium.org/downloads)
 * [Selenium Documentation](https://selenium-python.readthedocs.io/)
+* [w3schools XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
 
