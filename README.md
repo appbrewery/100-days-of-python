@@ -495,4 +495,5 @@
 * [Download and Install Selenium ChromeDriver](https://chromedriver.chromium.org/downloads)
 * [Selenium Documentation](https://selenium-python.readthedocs.io/)
 * [w3schools XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
+* [Wikipedia Main Page](https://en.wikipedia.org/wiki/Main_Page)
 * [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end)
