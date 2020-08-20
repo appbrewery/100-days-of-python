@@ -497,4 +497,5 @@
 * [w3schools XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
 * [Wikipedia Main Page](https://en.wikipedia.org/wiki/Main_Page)
 * [Challenge URL: Form Sign Up](http://secure-retreat-92358.herokuapp.com/)
+* [Our Actual Newsletter](https://www.appbrewery.co/p/newsletter)
 * [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end)
