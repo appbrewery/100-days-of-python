@@ -488,7 +488,7 @@
 
 * [See the course lessons for the individual links](TODO: Add Link to Course)
 
-## Day 48 - Selenium
+## Day 48 - Selenium Webdriver and Game Playing Bot
 
 * [The Cookie Clicker Game](https://orteil.dashnet.org/cookieclicker/)
 * [Download and Install the Chrome Browser](https://www.google.com/intl/en_uk/chrome/)
@@ -499,3 +499,8 @@
 * [Challenge URL: Form Sign Up](http://secure-retreat-92358.herokuapp.com/)
 * [Our Actual Newsletter](https://www.appbrewery.co/p/newsletter)
 * [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end)
+
+## Day 49 - Automating Job Applications on LinkedIn
+
+* [LinkedIn Jobs](https://www.linkedin.com/jobs/?showJobAlertsModal=false)
+* [Automated Job Application Bot Completed Code](https://repl.it/@appbrewery/auto-job-application-end)
