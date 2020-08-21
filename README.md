@@ -460,17 +460,59 @@
 
 * [The Complete Web Development Course](https://www.londonappbrewery.com/web-development)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
-* [Experiment with HTML code on codepen.io]
-* [The Adventures of Sherlock Holmes on Gutenberg.org]
-* [MDN documentation on headings]
-* [W3Schools documentation on headings]
-* [Alternative reference devdocs.io]
+* [Atom Text Editor](https://atom.io/)
+* [Useful Atom Pluggins](https://docs.google.com/document/d/e/2PACX-1vQNuhDC5pFXEVVNGasvddKuDHEXnqR033lsSD5tLA9NiEdHrsYM4MXVEXja2RnBgsCxK6XEo6YkMOFI/pub)
+* [VS Code Text Editor](https://code.visualstudio.com/)
+* [Experiment with HTML code on codepen.io](https://codepen.io/)
+* [The Adventures of Sherlock Holmes on Gutenberg.org](https://www.gutenberg.org/ebooks/1661)
+* [MDN documentation on headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+* [w3schools documentation on headings](https://www.w3schools.com/html/html_headings.asp)
+* [Alternative reference devdocs.io](https://devdocs.io/)
+* [The Wayback Machine](https://archive.org/web/)
+* [Professor Thomas H. Cormen's Personal Site](https://www.cs.dartmouth.edu/~thc/)
+* [Professor John Kleinberg's Personal Site](http://www.cs.cornell.edu/home/kleinber/)
+* [Professor Emeritus Donald Knuth's Personal Site](https://www-cs-faculty.stanford.edu/~knuth/)
+* [List of UTF-8 Characters](https://www.fileformat.info/info/charset/UTF-8/list.htm)
+* [List of Unicode Characters](https://unicode-table.com/en/)
+* [Joel Spolsky on Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+* [HTML empahsis vs italicise tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em#%3Ci%3E_vs._%3Cem%3E)
+* [The Wikigame](https://thewikigame.com/)
+* [Pascal Van Gemert's Online CV](http://www.pascalvangemert.nl/#/experiences)
 
 ## Day 42 - Intermediate HTML
 
+* [MDN Table Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+* [MDN Input Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+* [Publish your website using Github Pages](https://pages.github.com/)
+
 ## Day 43 - Introduction to CSS
 
+* [Stanford CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf)
+* Download the [Debugging Problem Starting Files](https://drive.google.com/uc?export=download&id=10wBjqLLB9Xt3JKFHGIcIzpV_t97Exokp)
+* Download the [Bacon Fan Site Starting Files](https://drive.google.com/uc?export=download&id=1CNR9W363_uCrqJFN4NKEnDmZyDXNN9mv)
+* [Toasty Technology classic 90s Style Website](http://toastytech.com/evil/index.html)
+* [Sean Halpin's beautiful personal website](http://seanhalpin.io/)
+* [MDN documentation on background colour](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+* [Curated colour palettes on colorhunt.co](https://colorhunt.co/)
+* [Colour palette used in lectures](https://colorhunt.co/palette/94114)
+* [Table of named colours on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+* [Overview of default CSS applied by the browser](https://www.w3schools.com/cssref/css_default_values.asp)
+* [MDN documentation on border-styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+* [devdocs.io on CSS height](https://devdocs.io/css/height)
+* [W3Schools documentation on CSS Text](https://www.w3schools.com/css/css_text.asp)
+
 ## Day 44 - Intermediate CSS
+
+* [Markus Vogl Interactive Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
+* Download the [CSS-My Site Images](https://drive.google.com/uc?export=download&id=1lF3LFRt06ssrSyGrDPuzbDcLCyeQuQA5)
+* Download the [StubCode.html file](https://drive.google.com/file/d/1tVju_Zg1E9QlhwPU6hO-p3-7myAvwWau/view?usp=sharing)
+* [Is <img> element block level or inline level?](https://stackoverflow.com/questions/2402761/is-img-element-block-level-or-inline-level)
+* [W3Schools documentation on Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+* [MDN documentation reference on CSS Properties and Pseudoclasses](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Broccoli and other images from emojipedia.org](https://emojipedia.org/)
+* [Z-Index Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
+* [Download Stacking Order Flowchart](https://drive.google.com/uc?export=download&id=13Z1_Fgbh3QESIIoFpXUgo1F4sVjB9di2)
+* [Completed Personal Site Project](https://drive.google.com/uc?export=download&id=1FNwOPj-bWO66HO6dsJiBVvFu2dt57n91)
 
 ## Day 45 - Web Scraping with Beautiful Soup
 
