@@ -548,3 +548,9 @@
 
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/?showJobAlertsModal=false)
 * [Automated Job Application Bot Completed Code](https://repl.it/@appbrewery/auto-job-application-end)
+
+## Day 50 - Automated Tinder Swiper
+
+* [Tinder](https://tinder.com/)
+* [Machine Learning Generated Profile Pictures](https://www.thispersondoesnotexist.com/)
+* [Automated Tinder Swiper Completed Code](https://repl.it/@appbrewery/auto-tinder-swiper)
