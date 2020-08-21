@@ -458,6 +458,7 @@
 
 ## Day 41 - Introduction to HTML
 
+* [The Complete Web Development Course](https://www.londonappbrewery.com/web-development)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [Experiment with HTML code on codepen.io]
 * [The Adventures of Sherlock Holmes on Gutenberg.org]
@@ -498,6 +499,7 @@
 * [Wikipedia Main Page](https://en.wikipedia.org/wiki/Main_Page)
 * [Challenge URL: Form Sign Up](http://secure-retreat-92358.herokuapp.com/)
 * [Our Actual Newsletter](https://www.appbrewery.co/p/newsletter)
+* [The Complete Web Development Course](https://www.londonappbrewery.com/web-development)
 * [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end)
 
 ## Day 49 - Automating Job Applications on LinkedIn
