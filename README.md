@@ -554,3 +554,11 @@
 * [Tinder](https://tinder.com/)
 * [Machine Learning Generated Profile Pictures](https://www.thispersondoesnotexist.com/)
 * [Automated Tinder Swiper Completed Code](https://repl.it/@appbrewery/auto-tinder-swiper)
+
+## Day 51 - Internet Speed Twitter Complaint Bot
+
+* [Internet Speed Checker](https://www.speedtest.net/)
+* [Does Tweeting at Companies Really Work?](https://time.com/4894182/twitter-company-complaints/)
+* [What it's Like to Cancel Comcast](https://www.huffingtonpost.co.uk/entry/the-comcast-call-from-hell_n_5586476)
+* [Comcast Twitter Bot](https://www.vice.com/en_us/article/yp3vzj/this-bot-will-tweet-at-comcast-whenever-your-internet-is-slower-than-advertised)
+* [Internet Speed Twitter Bot Completed Code](https://repl.it/@appbrewery/internet-speed-twitter-bot-end)
