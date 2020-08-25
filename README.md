@@ -568,3 +568,12 @@
 * [Instagram](https://www.instagram.com/)
 * [Follow your competitor's followers to grow your instagram account](https://hypeplanner.com/blogs/instagram-follow-unfollow-strategy-for-instagram-growth/#:~:text=The%20follow%2Funfollow%20Instagram%20strategy,after%20a%20period%20of%20time.)
 * [Instagram follower Bot Completed Code](https://repl.it/@appbrewery/instagram-follower-end)
+
+## Day 53 - Automated Data Entry Job
+
+* [Data Entry Jobs on Indeed](https://www.indeed.com/jobs?q=data%20entry&l=remote)
+* [Automating Your Job Reddit](https://www.reddit.com/r/Python/comments/8uxifv/has_anyone_automated_their_job_completely/)
+* [Automated Job Story](https://workplace.stackexchange.com/questions/93696/is-it-unethical-for-me-to-not-tell-my-employer-i-ve-automated-my-job)
+* [Zillow Property search](https://www.zillow.com/homes/for_rent/1-_beds/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3Anull%2C%22mapBounds%22%3A%7B%22west%22%3A-122.69219435644531%2C%22east%22%3A-122.17446364355469%2C%22south%22%3A37.703343724016136%2C%22north%22%3A37.847169233586946%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22pmf%22%3A%7B%22value%22%3Afalse%7D%2C%22pf%22%3A%7B%22value%22%3Afalse%7D%2C%22mp%22%3A%7B%22max%22%3A3000%7D%2C%22price%22%3A%7B%22max%22%3A872627%7D%2C%22beds%22%3A%7B%22min%22%3A1%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A11%7D)
+* [Google Forms](https://docs.google.com/forms)
+* [Automated Data Entry Job Completed Code](https://repl.it/@appbrewery/rental-research-end)
