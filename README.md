@@ -562,3 +562,9 @@
 * [What it's Like to Cancel Comcast](https://www.huffingtonpost.co.uk/entry/the-comcast-call-from-hell_n_5586476)
 * [Comcast Twitter Bot](https://www.vice.com/en_us/article/yp3vzj/this-bot-will-tweet-at-comcast-whenever-your-internet-is-slower-than-advertised)
 * [Internet Speed Twitter Bot Completed Code](https://repl.it/@appbrewery/internet-speed-twitter-bot-end)
+
+## Day 52 - Instagram Follower Bot
+
+* [Instagram](https://www.instagram.com/)
+* [Follow your competitor's followers to grow your instagram account](https://hypeplanner.com/blogs/instagram-follow-unfollow-strategy-for-instagram-growth/#:~:text=The%20follow%2Funfollow%20Instagram%20strategy,after%20a%20period%20of%20time.)
+* [Instagram follower Bot Completed Code](https://repl.it/@appbrewery/instagram-follower-end)
