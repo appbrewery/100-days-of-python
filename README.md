@@ -577,3 +577,17 @@
 * [Zillow Property search](https://www.zillow.com/homes/for_rent/1-_beds/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3Anull%2C%22mapBounds%22%3A%7B%22west%22%3A-122.69219435644531%2C%22east%22%3A-122.17446364355469%2C%22south%22%3A37.703343724016136%2C%22north%22%3A37.847169233586946%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22pmf%22%3A%7B%22value%22%3Afalse%7D%2C%22pf%22%3A%7B%22value%22%3Afalse%7D%2C%22mp%22%3A%7B%22max%22%3A3000%7D%2C%22price%22%3A%7B%22max%22%3A872627%7D%2C%22beds%22%3A%7B%22min%22%3A1%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A11%7D)
 * [Google Forms](https://docs.google.com/forms)
 * [Automated Data Entry Job Completed Code](https://repl.it/@appbrewery/rental-research-end)
+
+
+## Day 54 - Command Line, Python Decorators and Creating a Web Server with Flask
+
+* [Flask Quick Start Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+* [Flask Package on PyPi](https://pypi.org/project/Flask/)
+* [Windows Command Prompt Cheat Sheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+* [Mac/Linux Terminal Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+* [Python Built In Attributes e.g. __name__](https://docs.python.org/3/library/stdtypes.html?highlight=__name__#special-attributes)
+* [What is __main__?](https://docs.python.org/3/library/__main__.html)
+* [Python Decorators Docs](https://www.python.org/dev/peps/pep-0318/)
+* [Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-decorators#main.py)
+* [Visualising Nested Function Return on PythonTutor](http://www.pythontutor.com/visualize.html#code=def%20outer_function%28%29%3A%0A%20%20%20%20print%28%22I'm%20outer%22%29%0A%0A%20%20%20%20def%20nested_function%28%29%3A%0A%20%20%20%20%20%20%20%20print%28%22I'm%20inner%22%29%0A%0A%20%20%20%20return%20nested_function%0A%0Ainner_function%20%3D%20outer_function%28%29%0Ainner_function%28%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
+* [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end)
