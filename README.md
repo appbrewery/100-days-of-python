@@ -599,5 +599,6 @@
 
 ## Day 56 - Rendering HTML/Static Files and Name Card Project
 * [Flask Quick Start on Rendering HTML templates](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+* [My CV Website Hosted on GitHub](https://angelabauer.github.io/cv/)
 * [Personal Site HTML and CSS .zip File](https://repl.it/@appbrewery/personal-site-files.zip)
 * [HTML5 UP Website Templates](https://html5up.net/)
