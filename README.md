@@ -579,7 +579,7 @@
 * [Automated Data Entry Job Completed Code](https://repl.it/@appbrewery/rental-research-end)
 
 
-## Day 54 - Command Line, Python Decorators and Creating a Web Server with Flask
+## Day 54 - Introduction to Web Development with Flask
 
 * [Flask Quick Start Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 * [Flask Package on PyPi](https://pypi.org/project/Flask/)
@@ -591,3 +591,13 @@
 * [Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-decorators#main.py)
 * [Visualising Nested Function Return on PythonTutor](http://www.pythontutor.com/visualize.html#code=def%20outer_function%28%29%3A%0A%20%20%20%20print%28%22I'm%20outer%22%29%0A%0A%20%20%20%20def%20nested_function%28%29%3A%0A%20%20%20%20%20%20%20%20print%28%22I'm%20inner%22%29%0A%0A%20%20%20%20return%20nested_function%0A%0Ainner_function%20%3D%20outer_function%28%29%0Ainner_function%28%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 * [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end)
+
+## Day 55 - Displaying HTML, URL Parsing and the Higher Lower Game
+
+* [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end)
+
+## Day 56 - Rendering HTML/Static Files and Name Card Project
+* [Flask Quick Start on Rendering HTML templates](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+* [Personal Site HTML and CSS .zip File](https://repl.it/@appbrewery/personal-site-files.zip)
+* [HTML5 UP Website Templates](https://html5up.net/)
