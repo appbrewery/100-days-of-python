@@ -602,3 +602,18 @@
 * [My CV Website Hosted on GitHub](https://angelabauer.github.io/cv/)
 * [Personal Site HTML and CSS .zip File](https://repl.it/@appbrewery/personal-site-files.zip)
 * [HTML5 UP Website Templates](https://html5up.net/)
+
+
+## Day 57 - Templating with Jinja and Blog Project
+* [Rendering Templates in Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+* [Jinja Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
+* [Day 57 Starting Files](https://repl.it/@appbrewery/day-57-start.zip)
+* [Update Your Footer](http://updateyourfooter.com/)
+* [Genderize API](https://genderize.io/)
+* [Agify API](https://agify.io/)
+* [Day 57 End](https://repl.it/@appbrewery/day-57-end)
+* [Blog Project Starting Code](https://repl.it/@appbrewery/blog-templating-start.zip)
+* [n:point JSON Bin](https://www.npoint.io/)
+* [n:point Fake Blog Data](https://www.npoint.io/docs/5abcca6f4e39b4955965)
+* [Blog Project Completed Code](https://repl.it/@appbrewery/blog-templating-end)
+
