@@ -592,7 +592,7 @@
 * [Visualising Nested Function Return on PythonTutor](http://www.pythontutor.com/visualize.html#code=def%20outer_function%28%29%3A%0A%20%20%20%20print%28%22I'm%20outer%22%29%0A%0A%20%20%20%20def%20nested_function%28%29%3A%0A%20%20%20%20%20%20%20%20print%28%22I'm%20inner%22%29%0A%0A%20%20%20%20return%20nested_function%0A%0Ainner_function%20%3D%20outer_function%28%29%0Ainner_function%28%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 * [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end)
 
-## Day 55 - Displaying HTML, URL Parsing and the Higher Lower Game
+## Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 
 * [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end)
