@@ -594,6 +594,7 @@
 
 ## Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 
+* [Advanced Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-advanced-decorators#main.py)
 * [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end)
 
