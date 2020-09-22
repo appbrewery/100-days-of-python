@@ -618,3 +618,10 @@
 * [n:point Fake Blog Data](https://www.npoint.io/docs/5abcca6f4e39b4955965)
 * [Blog Project Completed Code](https://repl.it/@appbrewery/blog-templating-end)
 
+## Day 58 - Bootstrap
+* [TinDog Starting Files](https://drive.google.com/uc?export=download&id=16zC2yFidTU0fBUNN0P3HVmKN5xiMKxNL)
+* [Get Bootstrap](https://getbootstrap.com/)
+* [Bootstrap NavBar Codeply](https://www.codeply.com/p/GVJU3ipWxP)
+* [Bootstrap Grids Codeply](https://www.codeply.com/go/kNDgocH9rn)
+* Need sample text? Use a lorem ipsum generator: [loremipsum.io](https://www.loremipsum.io)
+* Download the Tindog Completed [Project Files](https://drive.google.com/uc?export=download&id=1GT2nLIp32IwMmqKgX0jYOylAmHLPE7iQ)
