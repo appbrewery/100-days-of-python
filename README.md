@@ -625,3 +625,13 @@
 * [Bootstrap Grids Codeply](https://www.codeply.com/go/kNDgocH9rn)
 * Need sample text? Use a lorem ipsum generator: [loremipsum.io](https://www.loremipsum.io)
 * Download the Tindog Completed [Project Files](https://drive.google.com/uc?export=download&id=1GT2nLIp32IwMmqKgX0jYOylAmHLPE7iQ)
+
+## Day 59 - Upgraded Blog with Bootstrap
+* [Clean Blog Bootstrap Template](https://startbootstrap.com/previews/clean-blog/)
+* [Flask URL Building for Static Files](https://flask.palletsprojects.com/en/1.1.x/quickstart/#static-files)
+* [Jinja Variables](https://jinja.palletsprojects.com/en/2.11.x/templates/#variables)
+* [Unsplash - Beautiful Free Photos](https://unsplash.com/)
+* [Blog Title Image](https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80)
+* [Blog Content NPoint API](https://api.npoint.io/43644ec4f0013682fc0d)
+* [Completed Code for Day 59](https://repl.it/@appbrewery/day-59-end)
+
