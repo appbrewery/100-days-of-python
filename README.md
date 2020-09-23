@@ -635,3 +635,7 @@
 * [Blog Content NPoint API](https://api.npoint.io/43644ec4f0013682fc0d)
 * [Completed Code for Day 59](https://repl.it/@appbrewery/day-59-end)
 
+## Day 60 - HTML Forms with Flask 
+
+* [See the course lessons for the individual links](TODO: Add Link to Course)
+* [Completed Code for Day 60 - Blog Website with Working Contact Form](https://repl.it/@appbrewery/day-60-end)
