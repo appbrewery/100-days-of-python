@@ -639,3 +639,7 @@
 
 * [See the course lessons for the individual links](TODO: Add Link to Course)
 * [Completed Code for Day 60 - Blog Website with Working Contact Form](https://repl.it/@appbrewery/day-60-end)
+
+## Day 61 - Building Advanced Forms with WTForms
+* [See the course lessons for the individual links](TODO: Add Link to Course)
+* [Completed Code for Day 61 - Secrets Website with WTForms](https://repl.it/@appbrewery/day-61-end)
