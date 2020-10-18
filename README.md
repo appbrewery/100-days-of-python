@@ -643,3 +643,7 @@
 ## Day 61 - Building Advanced Forms with WTForms
 * [See the course lessons for the individual links](TODO: Add Link to Course)
 * [Completed Code for Day 61 - Secrets Website with WTForms](https://repl.it/@appbrewery/day-61-end)
+
+## Day 68 - Authentication with Flask-Login
+* [How the Enigma Machine Works](https://www.youtube.com/watch?v=G2_Q9FoD-oQ&ab_channel=Numberphile)
+* [The Flaw in the Enigma Machine](https://www.youtube.com/watch?v=V4V2bpZlqx8&ab_channel=Numberphile)
