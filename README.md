@@ -6,8 +6,7 @@
 * [Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
 * Fork Your Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
-* [Sign Up for Interactive Code Exercises on Our Repl.it Classroom](https://www.appbrewery.co/p/repl-it-100-days-of-code)
-* [Printing to the Console End](https://repl.it/@appbrewery/day-1-printing-end)
+* [Day 1 Ending Code](https://repl.it/@appbrewery/day-1-printing-end)
 * [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
 * [Python Variables Start](https://repl.it/@appbrewery/day-1-variables-start)
 * [Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
@@ -18,7 +17,6 @@
 
 * [Day 2 - Project Goal](https://tip-calculator-end.appbrewery.repl.run/)
 * Fork Your Copy of the [Day 2 Starting Code](https://repl.it/@appbrewery/day-2-start)
-* [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
 * [BMI Explanation](https://en.wikipedia.org/wiki/Body_mass_index)
 * [Tim Urban's Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
 * [Tip Calculator Start](https://repl.it/@appbrewery/tip-calculator-start)
