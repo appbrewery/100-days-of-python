@@ -2,8 +2,8 @@
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
-* [Optional - Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
+* [Optional - Create an account on Repl.it](https://repl.it/signup)
 * Fork Your Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
 * [Interactive Coding Exercise - Day 1.1 Printing](https://repl.it/@appbrewery/day-1-1-exercise)
 * [Interactive Coding Exercise - Day 1.2 Debugging](https://repl.it/@appbrewery/day-1-2-exercise)
