@@ -2,10 +2,12 @@
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
-* [TODO: Download the Course Syllabus](www.example.com)
-* [Create an account on Repl.it](https://repl.it/signup)
+* [Optional - Create an account on Repl.it](https://repl.it/signup)
 * [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
 * Fork Your Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
+* [Interactive Coding Exercise - Day 1.1 Printing](https://repl.it/@appbrewery/day-1-1-exercise)
+* [Interactive Coding Exercise - Day 1.2 Debugging](https://repl.it/@appbrewery/day-1-2-exercise)
+* [Interactive Coding Exercise - Day 1.3 Inputs](https://repl.it/@appbrewery/day-1-3-exercise)
 * [Day 1 Ending Code](https://repl.it/@appbrewery/day-1-printing-end)
 * [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
 * [Python Variables Start](https://repl.it/@appbrewery/day-1-variables-start)
@@ -17,6 +19,9 @@
 
 * [Day 2 - Project Goal](https://tip-calculator-end.appbrewery.repl.run/)
 * Fork Your Copy of the [Day 2 Starting Code](https://repl.it/@appbrewery/day-2-start)
+* [Interactive Coding Exercise - Day 2.1 Data Types](https://repl.it/@appbrewery/day-2-1-exercise)
+* [Interactive Coding Exercise - Day 2.2 BMI Calculator](https://repl.it/@appbrewery/day-2-2-exercise)
+* [Interactive Coding Exercise - Day 2.3 Life in Weeks](https://repl.it/@appbrewery/day-2-3-exercise)
 * [BMI Explanation](https://en.wikipedia.org/wiki/Body_mass_index)
 * [Tim Urban's Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
 * [Tip Calculator Start](https://repl.it/@appbrewery/tip-calculator-start)
@@ -28,6 +33,11 @@
 * [Day 3 - Project Goal](https://treasure-island-end.appbrewery.repl.run)
 * [Rollercoaster Ticketing Flow Chart Version 1 - if else statements](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%201#R1VfbcpswEP0apk%2FJAAJfHmM7aR%2FSjlt3ps2jYm1ArUCukC%2Fk67sywqDgJM7Eub0w6Ggl7Z49uwKPjLPNZ0UX6VfJQHihzzYemXhhOIhCfBqgrICIkApIFGcVFDTAjN%2BCBX2LLjmDwjHUUgrNFy44l3kOc%2B1gVCm5ds1upHBPXdAEOsBsTkUX%2FcWZTm1YYb%2FBvwBP0vrkoDesZjJaG9tIipQyuW5B5NwjYyWlrt6yzRiE4a7mpVp3cc%2FszjEFuT5kwTQf3Pz8rmYwjVc%2FVmxzyf%2FJExtGocs6YGAYvx1KpVOZyJyK8wYdKbnMGZhdfRw1NpdSLhAMEPwDWpc2mXSpJUKpzoSdRYdV%2BdusP%2B2RsAauEDjxT%2F1%2BXCOTjT2jGpXt0RQUz0CDsmAVh3H%2BXnosVMilmsMDnNQyoyoB%2FYBdvEsiih8keqNKXKdAUM1Xrh%2FUyjDZ2dmlZ0rRsmWwkDzXRWvnqQHQwBYUIbagbD0FcdzOOr5UO9ajlmsNtFXGE1QyfGOVREHUVon%2FQQQSHUMgHQUEkSuAoe%2FuULllFzXKeKrQer3X15nlYkXF0rJje6tpbT2aoXBGid4m0w%2Bw52ceuehIU6Uyu15ilKN1yjXMFnSbzDVeT67A7GGgNGwe1kQ3h%2FWCoO%2ByVF9b6%2BauCHoWS1v3xN2ktdPe4vjpFJK3KNUj1lZ4YG3dk5eDa%2BtZJIcdnc7QYd2V4o7Y4HE53nAhxlJItV1LWAwDZtpeoZX8C62ZQXhNsDqPI2DiCjjco99wj36jl9Jv1KF2TPNPpgPg5yE8j%2BEj8EV8l6499T7ovyJd8T663gtZYb%2F%2Fvtiqz2%2FR9U12aMKAtcsFFTzJ8X2OgZsPipGhheNPwpmdyDhjVSuFgt%2FS6%2B1WppnaWxb3jUdePDF7YfcsqkZ6JJoHd%2B4gMuywTPaUcPhiLHev8SsoPjzN%2BC%2F7KM%2FRcXjGYfNfWH1cNT%2FX5Pw%2F)
 * Fork Your Copy of the [Day 3 Starting Code](https://repl.it/@appbrewery/day-3-start)
+* [Interactive Coding Exercise - Day 3.1 Odd or Even](https://repl.it/@appbrewery/day-3-1-exercise)
+* [Interactive Coding Exercise - Day 3.2 BMI Calculator 2.0](https://repl.it/@appbrewery/day-3-2-exercise)
+* [Interactive Coding Exercise - Day 3.3 Leap Year](https://repl.it/@appbrewery/day-3-3-exercise)
+* [Interactive Coding Exercise - Day 3.4 Pizza Order](https://repl.it/@appbrewery/day-3-4-exercise)
+* [Interactive Coding Exercise - Day 3.5 Love Calculator](https://repl.it/@appbrewery/day-3-5-exercise)
 * [More info on the % Modulus](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
 * [Rollercoaster Ticketing Flow Chart Version 2 - Nested if-else statements](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%202#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1J7_rw1flGeF0hmc_zrMzPX7t6xkbcsiX%26export%3Ddownload)
 * [Rollercoaster Ticketing Flow Chart Version 3 - if-elif-else statements](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%202#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XaUDMIKOxCUzJbsuZevgHZmgKr7rICbI%26export%3Ddownload)
@@ -48,6 +58,9 @@
 * [The Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Random vs Pseudorandom Numbers](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
 * Fork Your Copy of the [Day 4 Starting Code](https://repl.it/@appbrewery/day-4-start)
+* [Interactive Coding Exercise - Day 4.1 Heads or Tails](https://repl.it/@appbrewery/day-4-1-exercise)
+* [Interactive Coding Exercise - Day 4.2 Who's Paying](https://repl.it/@appbrewery/day-4-2-exercise)
+* [Interactive Coding Exercise - Day 4.3 Treasure Map](https://repl.it/@appbrewery/day-4-3-exercise)
 * [AskPython's Documentation on Random](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 * [Mouse Pointer Random Generator](http://www.russellcottrell.com/mousePointerRNG.htm)
 * [Iowa Lottery Fraud Mystery](https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-iowa-lottery-fraud-mystery.html)
@@ -66,6 +79,10 @@
 * [Day 5 - Project Goal](https://password-generator-end.appbrewery.repl.run)
 * [Have I been pwned?](https://haveibeenpwned.com/)
 * Fork Your Copy of the [Day 5 Starting Code](https://repl.it/@appbrewery/day-5-start)
+* [Interactive Coding Exercise - Day 5.1 Average Height](https://repl.it/@appbrewery/day-5-1-exercise)
+* [Interactive Coding Exercise - Day 5.2 Highest Score](https://repl.it/@appbrewery/day-5-2-exercise)
+* [Interactive Coding Exercise - Day 5.3 Adding Evens](https://repl.it/@appbrewery/day-5-3-exercise)
+* [Interactive Coding Exercise - Day 5.4 FizzBuzz](https://repl.it/@appbrewery/day-5-4-exercise)
 * [For loop Lesson End](https://repl.it/@appbrewery/day-5-for-loops-end)
 * [Day 5 Ending Code](https://repl.it/@appbrewery/day-5-end)
 * [Password Generator Start](https://repl.it/@appbrewery/password-generator-start)
@@ -110,6 +127,8 @@
 
 * [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
 * Fork Your Copy of the [Day 8 Starting Code](https://repl.it/@appbrewery/day-8-start)
+* [Interactive Coding Exercise - Day 8.1 Area Calculation](https://repl.it/@appbrewery/day-8-1-exercise)
+* [Interactive Coding Exercise - Day 8.2 Prime Number Checker](https://repl.it/@appbrewery/day-8-2-exercise)
 * [Primer on Prime Numbers](https://en.wikipedia.org/wiki/Prime_number)
 * [Day 8 - Ending Code](https://repl.it/@appbrewery/day-8-end)
 * [Caesar Cipher 1 Start](https://repl.it/@appbrewery/caesar-cipher-1-start)
@@ -126,6 +145,8 @@
 
 * [Day 9 - Project Goal](https://blind-auction-completed.appbrewery.repl.run)
 * Fork Your Copy of the [Day 9 Starting Code](https://repl.it/@appbrewery/day-9-start)
+* [Interactive Coding Exercise - Day 9.1 Grading Program](https://repl.it/@appbrewery/day-9-1-exercise)
+* [Interactive Coding Exercise - Day 9.2 Dictionary in List](https://repl.it/@appbrewery/day-9-2-exercise)
 * [Challenge 1 Solution](https://repl.it/@appbrewery/day-9-1-solution)
 * [Challenge 2 Solution](https://repl.it/@appbrewery/day-9-2-solution)
 * [Day 9 Ending Code](https://repl.it/@appbrewery/day-9-end)
@@ -138,6 +159,7 @@
 
 * [Day 10 - Project Goal](https://calculator-final.appbrewery.repl.run)
 * Fork Your Copy of the [Day 10 Starting Code](https://repl.it/@appbrewery/day-10-start)
+* [Interactive Coding Exercise - Day 10.1 Days in Month](https://repl.it/@appbrewery/day-10-1-exercise)
 * [How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
 * [Leap Year Challenge Solution](https://repl.it/@appbrewery/day-10-1-solution)
 * [Day 10 Ending Code](https://repl.it/@appbrewery/day-10-end)
@@ -165,6 +187,9 @@
 ## Day 13 - Debugging: How to Find and Fix Errors in your Code
 
 * Fork Your Copy of the [Day 13 Starting Code](https://repl.it/@appbrewery/day-13-start)
+* [Interactive Coding Exercise - Day 13.1 Debug Odd Even](https://repl.it/@appbrewery/day-13-1-exercise)
+* [Interactive Coding Exercise - Day 13.2 Debug Leap Year](https://repl.it/@appbrewery/day-13-2-exercise)
+* [Interactive Coding Exercise - Day 13.3 Debug FizzBuzz](https://repl.it/@appbrewery/day-13-3-exercise)
 * [Day 13 Ending Code](https://repl.it/@appbrewery/day-13-end)
 * [Debug your code online with Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 * [Search Stack Overflow for Errors](https://stackoverflow.com/questions/tagged/python)
@@ -292,8 +317,11 @@
 
 ## Day 26 - List Comprehension & the NATO Pilot's Alphabet
 
-* Don't have a repl.it account yet? [Register here](https://repl.it/signup)
-* Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [Interactive Coding Exercise - Day 26.1 List Comprehension 1](https://repl.it/@appbrewery/day-26-1-exercise)
+* [Interactive Coding Exercise - Day 26.2 List Comprehension 2](https://repl.it/@appbrewery/day-26-2-exercise)
+* [Interactive Coding Exercise - Day 26.3 List Comprehension 3](https://repl.it/@appbrewery/day-26-3-exercise)
+* [Interactive Coding Exercise - Day 26.4 Dictionary Comprehension 1](https://repl.it/@appbrewery/day-26-4-exercise)
+* [Interactive Coding Exercise - Day 26.5 Dictionary Comprehension 2](https://repl.it/@appbrewery/day-26-5-exercise)
 * [Day 26 End Code](https://repl.it/@appbrewery/day-26-end)
 * Download .zip for the [NATO Alphabet Starting Files](https://repl.it/@appbrewery/NATO-alphabet-start.zip)
 * [NATO Alphabet Starting Code & TODOs](https://repl.it/@appbrewery/NATO-alphabet-start)
@@ -332,8 +360,8 @@
 ## Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 
 * Download the .zip file for the [Password Manager (End of Day 29)](https://repl.it/@appbrewery/password-manager-end.zip)
-* Don't have a repl.it account yet? [Register here](https://repl.it/signup)
-* Didn't join our repl.it classroom yet? [Sign Up for our Interactive Code Exercises here](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [Interactive Coding Exercise - Day 30.1 IndexError Handling](https://repl.it/@appbrewery/day-30-1-exercise)
+* [Interactive Coding Exercise - Day 30.2 KeyError Handling](https://repl.it/@appbrewery/day-30-2-exercise)
 * Download the .zip file for the [NATO Phonetic Alphabet for the Code Exercise](https://repl.it/@appbrewery/NATO-alphabet-end.zip)
 * [Solution to the Improved NATO Phonetic Alphabet Project](https://repl.it/@appbrewery/NATO-alphabet-improved-end)
 * [Python JSON Module Documentation](https://docs.python.org/3/library/json.html)
@@ -587,13 +615,14 @@
 * [What is __main__?](https://docs.python.org/3/library/__main__.html)
 * [Python Decorators Docs](https://www.python.org/dev/peps/pep-0318/)
 * [Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-decorators#main.py)
+* [Interactive Coding Exercise - Day 54.1 Decorators](https://repl.it/@appbrewery/day-54-1-exercise)
 * [Visualising Nested Function Return on PythonTutor](http://www.pythontutor.com/visualize.html#code=def%20outer_function%28%29%3A%0A%20%20%20%20print%28%22I'm%20outer%22%29%0A%0A%20%20%20%20def%20nested_function%28%29%3A%0A%20%20%20%20%20%20%20%20print%28%22I'm%20inner%22%29%0A%0A%20%20%20%20return%20nested_function%0A%0Ainner_function%20%3D%20outer_function%28%29%0Ainner_function%28%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 * [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end)
 
 ## Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 
 * [Advanced Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-advanced-decorators#main.py)
-* [Interactive Code Exercises on Repl.it](https://www.appbrewery.co/p/repl-it-100-days-of-code)
+* [Interactive Coding Exercise - Day 55.1 Advanced Decorators](https://repl.it/@appbrewery/day-5-1-exercise)
 * [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end)
 
 ## Day 56 - Rendering HTML/Static Files and Name Card Project
