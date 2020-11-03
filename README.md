@@ -12,6 +12,7 @@ This is the course resources for the Official [100 Days of Python Course](https:
 * [Day 1 Ending Code](https://repl.it/@appbrewery/day-1-printing-end)
 * [Thonny.org](https://thonny.org/) - A Beginner Friendly Python IDE
 * [Python Variables Start](https://repl.it/@appbrewery/day-1-variables-start)
+* [Interactive Coding Exercise - Day 1.4 Variables](https://repl.it/@appbrewery/day-1-4-exercise)
 * [Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
 * [Band Name Generator Start](https://repl.it/@appbrewery/band-name-generator-start)
 * [Band Name Generator Completed Code](https://repl.it/@appbrewery/band-name-generator-end)
