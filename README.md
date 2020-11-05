@@ -1,5 +1,5 @@
 # 100 Days of Python
-This is the course resources for the Official [100 Days of Python Course](https://www.100daysofpython.dev)
+This is the course resources for the Official [100 Days of Python Course](https://100daysofpython.dev)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
