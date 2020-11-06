@@ -1,5 +1,6 @@
 # 100 Days of Python
 This is the course resources for the Official [100 Days of Python Course](https://100daysofpython.dev)
+* [Course Pledge](https://drive.google.com/uc?export=download&id=1sB3Zr88H65ZYYLgZYkLpExU6e7u9g5FA)
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
