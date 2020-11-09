@@ -5,7 +5,7 @@ Feel free to make pull requests if you discover a missing link!
 
 ## Day 1 - Working with Variables in Python to Manage Data
 
-* [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
+* Press "Play" (bottom left) to see the [Day 1 - Project Goal](https://repl.it/@appbrewery/band-name-generator-end?embed=1&output=1#main.py)
 * [Optional - Create an account on Repl.it](https://repl.it/signup)
 * Fork Your Copy of the [Day 1 Starting Code](https://repl.it/@appbrewery/day-1-printing-start)
 * [Interactive Coding Exercise - Day 1.1 Printing](https://repl.it/@appbrewery/day-1-1-exercise)
