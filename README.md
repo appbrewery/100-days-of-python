@@ -373,14 +373,14 @@ Feel free to make pull requests if you discover a missing link!
 ## Day 31 - Capstone Project - Flash Card App
 
 * Download the .zip for the [Flash Card Program Starting Files](https://repl.it/@appbrewery/flash-card-project-start.zip)
-* [Wikitionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+* [Wiktionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
 * [2018 Frequency Lists from Hermit Dave](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
 * [Open Subtitles](https://www.opensubtitles.org/en/search/subs)
 * [Google Sheets](https://www.google.co.uk/sheets/about/)
 * [View Only - French Words Google Sheet](https://docs.google.com/spreadsheets/d/1G_6WAjt8R4s-llmyIbihd0qBn4JpeKwl2danJ3BZqBM/edit?usp=sharing)
 * [Google Translate for Google Sheets](https://support.google.com/docs/answer/3093331?hl=en-GB)
 * [Google Translate Language Codes](https://cloud.google.com/translate/docs/languages?hl=en)
-* [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end)
+* [Flash Card Program End Code](https://repl.it/@appbrewery/flash-card-project-end.zip)
 
 ## Day 32 - Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 * Download the .zip for the [SMTP Starting Files](https://repl.it/@appbrewery/day-32-start.zip)
@@ -392,7 +392,7 @@ Feel free to make pull requests if you discover a missing link!
 * [Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-hard-start.zip)
 * [Extra Hard Difficulty Birthday Wisher Project Starting .zip File](https://repl.it/@appbrewery/birthday-wisher-extrahard-start.zip)
 * [Host your Code in the Cloud with pythonanywhere](https://www.pythonanywhere.com/)
-* [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end)
+* [Birthday Wisher Project Completed Code](https://repl.it/@appbrewery/birthday-wisher-end.zip)
 
 ## Day 33 - API Endpoints and API Parameters - ISS Overhead Notifier
 
@@ -401,15 +401,15 @@ Feel free to make pull requests if you discover a missing link!
 * [ISS Current Location API Documentation](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 * [HTTP Status Codes](https://httpstatuses.com/)
 * [Python Requests Module Documentation](https://requests.readthedocs.io/en/master/user/quickstart/)
-* [JSON Viewer Awesome Chrome Plugin](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en)
+* [JSON Viewer Awesome Chrome Plugin](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 * [Latitude and Longitude to Address Tool](https://www.latlong.net/Show-Latitude-Longitude.html)
 * [Kanye Quotes API](https://kanye.rest/)
 * Download the .zip for the [Kanye Quotes Starting Files](https://repl.it/@appbrewery/kanye-quotes-start.zip)
-* [Kanye Quotes Completed Project Code](https://repl.it/@appbrewery/kanye-quotes-end)
+* [Kanye Quotes Completed Project Code](https://repl.it/@appbrewery/kanye-quotes-end.zip)
 * [Sunrise and Sunset Times API](https://sunrise-sunset.org/api)
 * [Find Your Current Latitude and Longitude Tool](https://www.latlong.net)
 * [w3schools Python split() method Documentation](https://www.w3schools.com/python/ref_string_split.asp)
-* Download the .zip for the [ISS Notifier Starting Files](https://repl.it/issoverhead-start.zip)
+* Download the .zip for the [ISS Notifier Starting Files](https://repl.it/@appbrewery/issoverhead-start.zip)
 * [ISS Overhead Notifier Final Code](https://repl.it/@appbrewery/issoverhead-end)
 
 ## Day 34 - API Practice - Creating a GUI Quiz App
@@ -421,8 +421,8 @@ Feel free to make pull requests if you discover a missing link!
 * [StackOverflow Answer on Unescaping HTML Entities in Python](https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string)
 * [How to Get TKinter Canvas Text to Wrap](https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8)
 * [How to Disable Tkinter Buttons](https://www.google.com/search?q=how+to+disable+tkinter+buttons&oq=how+to+disable+tkinter+buttons&aqs=chrome..69i57j0l2.3868j0j4&sourceid=chrome&ie=UTF-8)
-* [Python Type Hints Demo Code](https://repl.it/@appbrewery/day-34-end)
-* [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end)
+* [Python Type Hints Demo Code](https://repl.it/@appbrewery/day-34-end.zip)
+* [Quiz App Completed Code](https://repl.it/@appbrewery/quizzler-app-end.zip)
 
 ## Day 35 - Keys, Authentication & Environment Variables: Send SMS 
 
@@ -442,18 +442,18 @@ Feel free to make pull requests if you discover a missing link!
 * [How to Get Twilio to Work on PythonAnywhere Free Accounts](https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/)
 * [Environment Variables Wikipedia Entry](https://en.wikipedia.org/wiki/Environment_variable)
 * [Other APIs to Explore](https://apilist.fun/)
-* [Completed Code for Rain Alert Project](https://repl.it/@appbrewery/rain-alert-end)
+* [Completed Code for Rain Alert Project](https://repl.it/@appbrewery/rain-alert-end.zip)
 
 ## Day 36 - Stock Trading News Alert Project
 
 * [Normal Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-normal-start.zip)
 * [Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-hard-start.zip)
 * [Extra Hard Difficulty Starting Project](https://repl.it/@appbrewery/stock-news-extrahard-start.zip)
-* [TSLA STock Price](https://uk.tradingview.com/symbols/NASDAQ-TSLA/)
+* [TSLA Stock Price](https://uk.tradingview.com/symbols/NASDAQ-TSLA/)
 * [Stock Price API](https://www.alphavantage.co/)
 * [News API](https://newsapi.org/)
 * [Twilio API](https://www.twilio.com/)
-* [Completed Code for Stock Trading Alert Project](https://repl.it/@appbrewery/stock-news-end)
+* [Completed Code for Stock Trading Alert Project](https://repl.it/@appbrewery/stock-news-end.zip)
 
 ## Day 37 - Habit Tracking Pixel Project
 
@@ -461,15 +461,15 @@ Feel free to make pull requests if you discover a missing link!
 * [Pixela API Documentation](https://docs.pixe.la/)
 * [Requests Module Documentation](https://requests.readthedocs.io/en/latest/api/)
 * [w3schools Python Date Formatting with strftime](https://www.w3schools.com/python/python_datetime.asp)
-* [Habit Tracking Completed Project](https://repl.it/@appbrewery/habit-tracking-end)
+* [Habit Tracking Completed Project](https://repl.it/@appbrewery/habit-tracking-end.zip)
 
 ## Day 38 - Build a Workout Tracking App that Talks to Google Sheets!
 
 * [OpenAi GPT-3](https://openai.com/blog/openai-api/)
 * [Nutritionix API](https://www.nutritionix.com/business/api)
-* [Nutritionix API Documentation](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/edit)
+* [Nutritionix API Documentation](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/preview)
 * [Sheety API](https://sheety.co/)
-* [Workout Tracking Completed Project](https://repl.it/@appbrewery/exercise-tracking-end)
+* [Workout Tracking Completed Project](https://repl.it/@appbrewery/exercise-tracking-end.zip)
 
 ## Day 39 - Capstone Part 1: Flight Deal Finder
 
