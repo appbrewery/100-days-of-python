@@ -78,8 +78,8 @@ Feel free to make pull requests if you discover a missing link!
 * [Rock Paper Scissors Starter Code](https://repl.it/@appbrewery/rock-paper-scissors-start)
 * [Rock Paper Scissors Completed Code](https://repl.it/@appbrewery/rock-paper-scissors-end)
 ### Day 4 - Project Issue
-* [Rock Paper Scissors Completed Code](https://repl.it/@A3AJAGBE/rock-paper-scissors)
-* [Rock Paper Scissors Completed Code](https://repl.it/@A3AJAGBE/rock-paper-scissors-end)
+* [My Rock Paper Scissors Completed Code](https://repl.it/@A3AJAGBE/rock-paper-scissors)
+* [Appbrewery Rock Paper Scissors Completed Code](https://repl.it/@A3AJAGBE/rock-paper-scissors-end)
 
 ## Day 5 - Python Loops
 
