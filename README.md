@@ -532,20 +532,29 @@ Feel free to make pull requests if you discover a missing link!
 * Download the [Bacon Fan Site Starting Files](https://drive.google.com/uc?export=download&id=1CNR9W363_uCrqJFN4NKEnDmZyDXNN9mv)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [Emojipedia broccoli emoji](https://emojipedia.org/broccoli/)
+* [CSS Properties and Pseudoclasses Reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN :hover Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 
 ## Day 44 - Intermediate CSS
 
+* [Create a Favicon with favicon.cc](https://www.favicon.cc/)
+* [My colours from colorhunt](https://colorhunt.co/palette/14832)
 * [Markus Vogl Interactive Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 * Download the [CSS-My Site Images](https://drive.google.com/uc?export=download&id=1lF3LFRt06ssrSyGrDPuzbDcLCyeQuQA5)
-* Download the [StubCode.html file](https://drive.google.com/file/d/1tVju_Zg1E9QlhwPU6hO-p3-7myAvwWau/view?usp=sharing)
 * [Is <img> element block level or inline level?](https://stackoverflow.com/questions/2402761/is-img-element-block-level-or-inline-level)
+* [MDN margin documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 * [W3Schools documentation on Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
-* [MDN documentation reference on CSS Properties and Pseudoclasses](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [Broccoli and other images from emojipedia.org](https://emojipedia.org/)
-* [Z-Index Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
-* [Download Stacking Order Flowchart](https://drive.google.com/uc?export=download&id=13Z1_Fgbh3QESIIoFpXUgo1F4sVjB9di2)
+* [cssfontstack.com](https://www.cssfontstack.com/)
+* [Google Fonts](https://fonts.google.com/)
+* Download the [StubCode.html file](https://drive.google.com/file/d/1tVju_Zg1E9QlhwPU6hO-p3-7myAvwWau/view?usp=sharing)
+* [Lorem Ipsum Generator](https://loremipsum.io/)
+* [flaticon.com](https://www.flaticon.com/)
+* [giphy.com](https://giphy.com/)
+* [MDN CSS color property documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+* [MDN font-weight documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+* [css3buttongenerator.com](https://css3buttongenerator.com/)
 * [Completed Personal Site Project](https://drive.google.com/uc?export=download&id=1FNwOPj-bWO66HO6dsJiBVvFu2dt57n91)
+
 
 ## Day 45 - Web Scraping with Beautiful Soup
 
@@ -657,6 +666,8 @@ Feel free to make pull requests if you discover a missing link!
 * [Get Bootstrap](https://getbootstrap.com/)
 * [Bootstrap NavBar Codeply](https://www.codeply.com/p/GVJU3ipWxP)
 * [Bootstrap Grids Codeply](https://www.codeply.com/go/kNDgocH9rn)
+* [Z-Index Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
+* [Download Stacking Order Flowchart](https://drive.google.com/uc?export=download&id=13Z1_Fgbh3QESIIoFpXUgo1F4sVjB9di2)
 * Need sample text? Use a lorem ipsum generator: [loremipsum.io](https://www.loremipsum.io)
 * Download the Tindog Completed [Project Files](https://drive.google.com/uc?export=download&id=1GT2nLIp32IwMmqKgX0jYOylAmHLPE7iQ)
 
