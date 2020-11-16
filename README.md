@@ -489,7 +489,7 @@ Feel free to make pull requests if you discover a missing link!
 * [The Complete Web Development Course](https://www.londonappbrewery.com/web-development)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [Atom Text Editor](https://atom.io/)
-* [Useful Atom Pluggins](https://docs.google.com/document/d/e/2PACX-1vQNuhDC5pFXEVVNGasvddKuDHEXnqR033lsSD5tLA9NiEdHrsYM4MXVEXja2RnBgsCxK6XEo6YkMOFI/pub)
+* [Useful Atom Plugins](https://docs.google.com/document/d/e/2PACX-1vQNuhDC5pFXEVVNGasvddKuDHEXnqR033lsSD5tLA9NiEdHrsYM4MXVEXja2RnBgsCxK6XEo6YkMOFI/pub)
 * [VS Code Text Editor](https://code.visualstudio.com/)
 * [Experiment with HTML code on codepen.io](https://codepen.io/)
 * [The Adventures of Sherlock Holmes on Gutenberg.org](https://www.gutenberg.org/ebooks/1661)
@@ -503,21 +503,21 @@ Feel free to make pull requests if you discover a missing link!
 * [List of UTF-8 Characters](https://www.fileformat.info/info/charset/UTF-8/list.htm)
 * [List of Unicode Characters](https://unicode-table.com/en/)
 * [Joel Spolsky on Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-* [HTML empahsis vs italicise tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em#%3Ci%3E_vs._%3Cem%3E)
+* [HTML emphasis vs italicise tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em#%3Ci%3E_vs._%3Cem%3E)
 * [The Wikigame](https://thewikigame.com/)
-* [Pascal Van Gemert's Online CV](http://www.pascalvangemert.nl/#/experiences)
+
 
 ## Day 42 - Intermediate HTML
 
+* [Pascal Van Gemert's Online CV](http://www.pascalvangemert.nl/#/experiences)
 * [MDN Table Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+* [MDN Form Documentation](MDN Table Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 * [MDN Input Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 * [Publish your website using Github Pages](https://pages.github.com/)
 
 ## Day 43 - Introduction to CSS
 
 * [Stanford CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf)
-* Download the [Debugging Problem Starting Files](https://drive.google.com/uc?export=download&id=10wBjqLLB9Xt3JKFHGIcIzpV_t97Exokp)
-* Download the [Bacon Fan Site Starting Files](https://drive.google.com/uc?export=download&id=1CNR9W363_uCrqJFN4NKEnDmZyDXNN9mv)
 * [Toasty Technology classic 90s Style Website](http://toastytech.com/evil/index.html)
 * [Sean Halpin's beautiful personal website](http://seanhalpin.io/)
 * [MDN documentation on background colour](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
@@ -528,6 +528,11 @@ Feel free to make pull requests if you discover a missing link!
 * [MDN documentation on border-styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
 * [devdocs.io on CSS height](https://devdocs.io/css/height)
 * [W3Schools documentation on CSS Text](https://www.w3schools.com/css/css_text.asp)
+* Download the [Debugging Problem Starting Files](https://drive.google.com/uc?export=download&id=10wBjqLLB9Xt3JKFHGIcIzpV_t97Exokp)
+* Download the [Bacon Fan Site Starting Files](https://drive.google.com/uc?export=download&id=1CNR9W363_uCrqJFN4NKEnDmZyDXNN9mv)
+* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Emojipedia broccoli emoji](https://emojipedia.org/broccoli/)
+* [MDN :hover Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 
 ## Day 44 - Intermediate CSS
 
