@@ -563,15 +563,15 @@ Feel free to make pull requests if you discover a missing link!
 * [Y Combinator Hacker News](https://news.ycombinator.com/)
 * [Demo code from lessons](https://repl.it/@appbrewery/bs4-end)
 * [Empire's Top 100 Movies of All Time](https://www.empireonline.com/movies/features/best-movies-2/)
-* [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end)
+* [Top 100 Movies Scraping Project Final Code](https://repl.it/@appbrewery/top100-movies-end.zip)
 
 ## Day 46 - Create a Spotify Playlist using the Musical Time Machine
 
-* [See the course lessons for the individual links](TODO: Add Link to Course)
+* [See the course lessons for the individual links](https://www.udemy.com/course/100-days-of-code/?referralCode=00555B4B1F6FC1A84FBC)
 
 ## Day 47 - Create an Automated Amazon Price Tracker
 
-* [See the course lessons for the individual links](TODO: Add Link to Course)
+* [See the course lessons for the individual links](https://www.udemy.com/course/100-days-of-code/?referralCode=00555B4B1F6FC1A84FBC)
 
 ## Day 48 - Selenium Webdriver and Game Playing Bot
 
@@ -584,18 +584,18 @@ Feel free to make pull requests if you discover a missing link!
 * [Challenge URL: Form Sign Up](http://secure-retreat-92358.herokuapp.com/)
 * [Our Actual Newsletter](https://www.appbrewery.co/p/newsletter)
 * [The Complete Web Development Course](https://www.londonappbrewery.com/web-development)
-* [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end)
+* [Automated Cookie Clicker Completed Code](https://repl.it/@appbrewery/cookie-clicker-end.zip)
 
 ## Day 49 - Automating Job Applications on LinkedIn
 
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/?showJobAlertsModal=false)
-* [Automated Job Application Bot Completed Code](https://repl.it/@appbrewery/auto-job-application-end)
+* [Automated Job Application Bot Completed Code](https://repl.it/@appbrewery/auto-job-application-end.zip)
 
 ## Day 50 - Automated Tinder Swiper
 
 * [Tinder](https://tinder.com/)
 * [Machine Learning Generated Profile Pictures](https://www.thispersondoesnotexist.com/)
-* [Automated Tinder Swiper Completed Code](https://repl.it/@appbrewery/auto-tinder-swiper)
+* [Automated Tinder Swiper Completed Code](https://repl.it/@appbrewery/auto-tinder-swiper.zip)
 
 ## Day 51 - Internet Speed Twitter Complaint Bot
 
@@ -603,13 +603,13 @@ Feel free to make pull requests if you discover a missing link!
 * [Does Tweeting at Companies Really Work?](https://time.com/4894182/twitter-company-complaints/)
 * [What it's Like to Cancel Comcast](https://www.huffingtonpost.co.uk/entry/the-comcast-call-from-hell_n_5586476)
 * [Comcast Twitter Bot](https://www.vice.com/en_us/article/yp3vzj/this-bot-will-tweet-at-comcast-whenever-your-internet-is-slower-than-advertised)
-* [Internet Speed Twitter Bot Completed Code](https://repl.it/@appbrewery/internet-speed-twitter-bot-end)
+* [Internet Speed Twitter Bot Completed Code](https://repl.it/@appbrewery/internet-speed-twitter-bot-end.zip)
 
 ## Day 52 - Instagram Follower Bot
 
 * [Instagram](https://www.instagram.com/)
 * [Follow your competitor's followers to grow your instagram account](https://hypeplanner.com/blogs/instagram-follow-unfollow-strategy-for-instagram-growth/#:~:text=The%20follow%2Funfollow%20Instagram%20strategy,after%20a%20period%20of%20time.)
-* [Instagram follower Bot Completed Code](https://repl.it/@appbrewery/instagram-follower-end)
+* [Instagram follower Bot Completed Code](https://repl.it/@appbrewery/instagram-follower-end.zip)
 
 ## Day 53 - Automated Data Entry Job
 
@@ -618,7 +618,7 @@ Feel free to make pull requests if you discover a missing link!
 * [Automated Job Story](https://workplace.stackexchange.com/questions/93696/is-it-unethical-for-me-to-not-tell-my-employer-i-ve-automated-my-job)
 * [Zillow Property search](https://www.zillow.com/homes/for_rent/1-_beds/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3Anull%2C%22mapBounds%22%3A%7B%22west%22%3A-122.69219435644531%2C%22east%22%3A-122.17446364355469%2C%22south%22%3A37.703343724016136%2C%22north%22%3A37.847169233586946%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22pmf%22%3A%7B%22value%22%3Afalse%7D%2C%22pf%22%3A%7B%22value%22%3Afalse%7D%2C%22mp%22%3A%7B%22max%22%3A3000%7D%2C%22price%22%3A%7B%22max%22%3A872627%7D%2C%22beds%22%3A%7B%22min%22%3A1%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A11%7D)
 * [Google Forms](https://docs.google.com/forms)
-* [Automated Data Entry Job Completed Code](https://repl.it/@appbrewery/rental-research-end)
+* [Automated Data Entry Job Completed Code](https://repl.it/@appbrewery/rental-research-end.zip)
 
 
 ## Day 54 - Introduction to Web Development with Flask
@@ -633,13 +633,13 @@ Feel free to make pull requests if you discover a missing link!
 * [Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-decorators#main.py)
 * [Interactive Coding Exercise - Day 54.1 Decorators](https://repl.it/@appbrewery/day-54-1-exercise)
 * [Visualising Nested Function Return on PythonTutor](http://www.pythontutor.com/visualize.html#code=def%20outer_function%28%29%3A%0A%20%20%20%20print%28%22I'm%20outer%22%29%0A%0A%20%20%20%20def%20nested_function%28%29%3A%0A%20%20%20%20%20%20%20%20print%28%22I'm%20inner%22%29%0A%0A%20%20%20%20return%20nested_function%0A%0Ainner_function%20%3D%20outer_function%28%29%0Ainner_function%28%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
-* [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end)
+* [Day 54 Completed Code for Flask Server](https://repl.it/@appbrewery/day-54-end.zip)
 
 ## Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 
 * [Advanced Python Decorators Repl.it Code](https://repl.it/@appbrewery/python-advanced-decorators#main.py)
 * [Interactive Coding Exercise - Day 55.1 Advanced Decorators](https://repl.it/@appbrewery/day-5-1-exercise)
-* [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end)
+* [Day 56 End and Completed Code for Higher-Lower Game](https://repl.it/@appbrewery/day-55-end.zip)
 
 ## Day 56 - Rendering HTML/Static Files and Name Card Project
 * [Flask Quick Start on Rendering HTML templates](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
