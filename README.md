@@ -541,7 +541,7 @@ Feel free to make pull requests if you discover a missing link!
 * [My colours from colorhunt](https://colorhunt.co/palette/14832)
 * [Markus Vogl Interactive Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 * Download the [CSS-My Site Images](https://drive.google.com/uc?export=download&id=1lF3LFRt06ssrSyGrDPuzbDcLCyeQuQA5)
-* [Is <img> element block level or inline level?](https://stackoverflow.com/questions/2402761/is-img-element-block-level-or-inline-level)
+* [Is the img element block level or inline level?](https://stackoverflow.com/questions/2402761/is-img-element-block-level-or-inline-level)
 * [MDN margin documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 * [W3Schools documentation on Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 * [cssfontstack.com](https://www.cssfontstack.com/)
