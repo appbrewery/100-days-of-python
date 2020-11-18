@@ -511,7 +511,7 @@ Feel free to make pull requests if you discover a missing link!
 
 * [Pascal Van Gemert's Online CV](http://www.pascalvangemert.nl/#/experiences)
 * [MDN Table Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-* [MDN Form Documentation](MDN Table Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+* [MDN Form Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 * [MDN Input Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 * [Publish your website using Github Pages](https://pages.github.com/)
 
