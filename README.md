@@ -675,6 +675,7 @@ Feel free to make pull requests if you discover a missing link!
 * [Bootstrap Navbar](https://getbootstrap.com/docs/4.5/components/navbar/)
 * [Bootstrap Colour names](https://getbootstrap.com/docs/4.5/components/buttons/)
 * [Bootstrap NavBar Codeply](https://www.codeply.com/p/GVJU3ipWxP)
+* [Bootstrap Grid Codeply](https://www.codeply.com/p/gGAW4KgOrL)
 * [TinDog Starting Files](https://drive.google.com/uc?export=download&id=16zC2yFidTU0fBUNN0P3HVmKN5xiMKxNL)
 * [Bootstrap Layout Grids](https://getbootstrap.com/docs/4.5/layout/grid/)
 * [Google Fonts: Montserrat](https://fonts.google.com/specimen/Montserrat)
@@ -689,6 +690,7 @@ Feel free to make pull requests if you discover a missing link!
 * [Bootsnipp.com Examples](https://bootsnipp.com/)
 * [Z-Index Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
 * [Download Stacking Order Flowchart](https://drive.google.com/uc?export=download&id=13Z1_Fgbh3QESIIoFpXUgo1F4sVjB9di2)
+* [Z-Index Codeply Example](https://www.codeply.com/p/0fYVdrVmZM)
 * [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 * Download the Tindog Completed [Project Files](https://drive.google.com/uc?export=download&id=1GT2nLIp32IwMmqKgX0jYOylAmHLPE7iQ)
 
@@ -699,16 +701,16 @@ Feel free to make pull requests if you discover a missing link!
 * [Unsplash - Beautiful Free Photos](https://unsplash.com/)
 * [Blog Title Image](https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80)
 * [Blog Content NPoint API](https://api.npoint.io/43644ec4f0013682fc0d)
-* [Completed Code for Day 59](https://repl.it/@appbrewery/day-59-end)
+* [Completed Code for Day 59](https://repl.it/@appbrewery/day-59-end.zip)
 
 ## Day 60 - HTML Forms with Flask 
 
 * [See the course lessons for the individual links](TODO: Add Link to Course)
-* [Completed Code for Day 60 - Blog Website with Working Contact Form](https://repl.it/@appbrewery/day-60-end)
+* [Completed Code for Day 60 - Blog Website with Working Contact Form](https://repl.it/@appbrewery/day-60-end.zip)
 
 ## Day 61 - Building Advanced Forms with WTForms
 * [See the course lessons for the individual links](TODO: Add Link to Course)
-* [Completed Code for Day 61 - Secrets Website with WTForms](https://repl.it/@appbrewery/day-61-end)
+* [Completed Code for Day 61 - Secrets Website with WTForms](https://repl.it/@appbrewery/day-61-end.zip)
 
 ## Day 68 - Authentication with Flask-Login
 * [How the Enigma Machine Works](https://www.youtube.com/watch?v=G2_Q9FoD-oQ&ab_channel=Numberphile)
