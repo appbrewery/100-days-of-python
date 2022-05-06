@@ -35,7 +35,23 @@ select = float(input("Please select 1 2 3 4 :"))
 number_1 = float(input("Enter your first number"))
 number_2 = float(input("Enter your first number"))
 # do the calculation
+# addition
 if select == 1:
     print(number_1, "+", number_2, "=", add(number_1, number_2))
+
+# subtraction
+
+elif select == 2:
+    print(number_1, "+", number_2, "=", subtract(number_1, number_2))
+
+# multiplication
+
+elif select == 3:
+    print(number_1, "+", number_2, "=", multiply(number_1, number_2))
+
+# division
+
+elif select == 4:
+    print(number_1, "+", number_2, "=", divide(number_1, number_2))
 else:
-    print("wrong")
+    print("wrong input ")
