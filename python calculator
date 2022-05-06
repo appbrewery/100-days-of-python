@@ -1,1 +1,20 @@
+#calculator build in python
+#addition
+
+#define the functions
+#add function
+def add(x, y)
+ return x+y
+
+#this function substract
+def subtract(x, y)
+ return x - y
+
+#this function multiplies two numbers
+def multipy(x, y)
+ return x * y
+
+#this function divides two numbers
+def devide(x, y)
+ return x / y
 
