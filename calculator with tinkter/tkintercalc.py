@@ -31,9 +31,9 @@ def equalpress ():
         equation.set(total)
 
         expression = ""
-except:
-    equation.set(error)
-    expression =""
+    except:
+        equation.set(error)
+        expression = ""
 
 
 
